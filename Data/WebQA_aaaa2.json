@@ -1,0 +1,2211 @@
+{
+    "d5bbc6d80dba11ecb1e81171463288e9": {
+        "Q": "\"Are both the National Museum of the American Indian in Washington, D.C. and the Xanadu House in Kissimmee, Florida the same color?\"",
+        "A": [
+            "\"Yes, both the National Museum of the American Indian in Washington, D.C. and the Xanadu House in Kissimmee, Florida are beige.\""
+        ],
+        "topic": "strange architecture",
+        "split": "train",
+        "Qcate": "YesNo",
+        "Guid": "d5bbc6d80dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30278153,
+                "title": "Xanadu-House-in-Kissimmee-Florida-1985",
+                "caption": "Xanadu-House-in-Kissimmee-Florida-1985 A photo of the Xanadu House that was located in Kissimmee, Florida, showing the exterior of the house.",
+                "url": "https://commons.wikimedia.org/wiki/File:Xanadu-House-in-Kissimmee-Florida-1985.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Xanadu-House-in-Kissimmee-Florida-1985.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30095223,
+                "title": "National Museum of the American Indian",
+                "caption": "National Museum of the American Indian",
+                "url": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/National_Museum_of_the_American_Indian.jpg/450px-National_Museum_of_the_American_Indian.jpg"
+            },
+            {
+                "image_id": 30388945,
+                "title": "Xanadu - futuristic architecture",
+                "caption": "Xanadu - futuristic architecture Xanadu House Interior",
+                "url": "https://commons.wikimedia.org/wiki/File:Xanadu_-_futuristic_architecture.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Xanadu_-_futuristic_architecture.jpg/800px-Xanadu_-_futuristic_architecture.jpg"
+            },
+            {
+                "image_id": 30364890,
+                "title": "No Caption. (Monitor \"Saugus\" on the James River, VA.) - NARA - 529196.tif",
+                "caption": "No Caption. (Monitor \"Saugus\" on the James River, VA.) - NARA - 529196.tif",
+                "url": "https://commons.wikimedia.org/wiki/File:No_Caption._(Monitor_%22Saugus%22_on_the_James_River%2C_VA.)_-_NARA_-_529196.tif",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/No_Caption._(Monitor_%22Saugus%22_on_the_James_River%2C_VA.)_-_NARA_-_529196.tif/lossy-page1-1200px-No_Caption._(Monitor_%22Saugus%22_on_the_James_River%2C_VA.)_-_NARA_-_529196.tif.jpg"
+            },
+            {
+                "image_id": 30199172,
+                "title": "Replica of a 18th century baking oven, Kleinplasie Open Air Agricultural Museum and Show Grounds, Worcester, South Africa 01",
+                "caption": "Replica of a 18th century baking oven, Kleinplasie Open Air Agricultural Museum and Show Grounds, Worcester, South Africa 01 Replica of a 18th century outdoor baking oven typical of early Cape homesteads. Made of clay and bricks.",
+                "url": "https://commons.wikimedia.org/wiki/File:Replica_of_a_18th_century_baking_oven%2C_Kleinplasie_Open_Air_Agricultural_Museum_and_Show_Grounds%2C_Worcester%2C_South_Africa_01.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Replica_of_a_18th_century_baking_oven%2C_Kleinplasie_Open_Air_Agricultural_Museum_and_Show_Grounds%2C_Worcester%2C_South_Africa_01.jpg/640px-Replica_of_a_18th_century_baking_oven%2C_Kleinplasie_Open_Air_Agricultural_Museum_and_Show_Grounds%2C_Worcester%2C_South_Africa_01.jpg"
+            },
+            {
+                "image_id": 30264287,
+                "title": "ChapelOfSainPaul night Damascus Syria",
+                "caption": "ChapelOfSainPaul night Damascus Syria Chapel of Saint Paul by night, Damascus, Syria.",
+                "url": "https://commons.wikimedia.org/wiki/File:ChapelOfSainPaul_night_Damascus_Syria.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/ChapelOfSainPaul_night_Damascus_Syria.jpg"
+            },
+            {
+                "image_id": 30111789,
+                "title": "Richterin talo, Turku. Kuvaaja HJ. Renvall 1914, arkisto Turun museokeskus.",
+                "caption": "Richterin talo, Turku. Kuvaaja HJ. Renvall 1914, arkisto Turun museokeskus. Turku, Finland.",
+                "url": "https://commons.wikimedia.org/wiki/File:Richterin_talo%2C_Turku._Kuvaaja_HJ._Renvall_1914%2C_arkisto_Turun_museokeskus..jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Richterin_talo%2C_Turku._Kuvaaja_HJ._Renvall_1914%2C_arkisto_Turun_museokeskus..jpg/800px-Richterin_talo%2C_Turku._Kuvaaja_HJ._Renvall_1914%2C_arkisto_Turun_museokeskus..jpg"
+            },
+            {
+                "image_id": 30272499,
+                "title": "Centennial Hangar, Wright Brothers National Memorial, Kill Devil Hills, North Carolina (14443981511)",
+                "caption": "Centennial Hangar, Wright Brothers National Memorial, Kill Devil Hills, North Carolina (14443981511)",
+                "url": "https://commons.wikimedia.org/wiki/File:Centennial_Hangar%2C_Wright_Brothers_National_Memorial%2C_Kill_Devil_Hills%2C_North_Carolina_(14443981511).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Centennial_Hangar%2C_Wright_Brothers_National_Memorial%2C_Kill_Devil_Hills%2C_North_Carolina_(14443981511).jpg/1200px-Centennial_Hangar%2C_Wright_Brothers_National_Memorial%2C_Kill_Devil_Hills%2C_North_Carolina_(14443981511).jpg"
+            },
+            {
+                "image_id": 30281363,
+                "title": "\u4eac\u83ef\u57ce\u767e\u8ca8\u516c\u53f8 Core Pacific City Co., Ltd. - panoramio - Tianmu peter (3)",
+                "caption": "\u4eac\u83ef\u57ce\u767e\u8ca8\u516c\u53f8 Core Pacific City Co., Ltd. - panoramio - Tianmu peter (3)",
+                "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E8%8F%AF%E5%9F%8E%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8_Core_Pacific_City_Co.%2C_Ltd._-_panoramio_-_Tianmu_peter_(3).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%E4%BA%AC%E8%8F%AF%E5%9F%8E%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8_Core_Pacific_City_Co.%2C_Ltd._-_panoramio_-_Tianmu_peter_(3).jpg/1200px-%E4%BA%AC%E8%8F%AF%E5%9F%8E%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8_Core_Pacific_City_Co.%2C_Ltd._-_panoramio_-_Tianmu_peter_(3).jpg"
+            },
+            {
+                "image_id": 30005083,
+                "title": "Exterior view of the Andrew McNally residence from a path and archway, Altadena, ca.1900 (CHS-260)",
+                "caption": "Exterior view of the Andrew McNally residence from a path and archway, Altadena, ca.1900 (CHS-260) Exterior view of the Andrew McNally residence from a path and archway, Altadena, ca.1900",
+                "url": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_Andrew_McNally_residence_from_a_path_and_archway%2C_Altadena%2C_ca.1900_(CHS-260).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Exterior_view_of_the_Andrew_McNally_residence_from_a_path_and_archway%2C_Altadena%2C_ca.1900_(CHS-260).jpg/1200px-Exterior_view_of_the_Andrew_McNally_residence_from_a_path_and_archway%2C_Altadena%2C_ca.1900_(CHS-260).jpg"
+            },
+            {
+                "image_id": 30240273,
+                "title": "Recherswil Isler-Schale 02 09",
+                "caption": "Recherswil Isler-Schale 02 09 Isler shell, concrete dome roof of a building of the former company Kilcher in Recherswil, built 1965; Solothurn, Switzerland.",
+                "url": "https://commons.wikimedia.org/wiki/File:Recherswil_Isler-Schale_02_09.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Recherswil_Isler-Schale_02_09.jpg/640px-Recherswil_Isler-Schale_02_09.jpg"
+            },
+            {
+                "image_id": 30202982,
+                "title": "Brentwood, Los Angeles, CA 90049, USA - panoramio (11)",
+                "caption": "Brentwood, Los Angeles, CA 90049, USA - panoramio (11)",
+                "url": "https://commons.wikimedia.org/wiki/File:Brentwood%2C_Los_Angeles%2C_CA_90049%2C_USA_-_panoramio_%2811%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brentwood%2C_Los_Angeles%2C_CA_90049%2C_USA_-_panoramio_%2811%29.jpg/1024px-Brentwood%2C_Los_Angeles%2C_CA_90049%2C_USA_-_panoramio_%2811%29.jpg"
+            },
+            {
+                "image_id": 30059273,
+                "title": "Arheo Muz SK (4)",
+                "caption": "Arheo Muz SK (4)  Archeological Museum of Macedonia in Skopje, Macedonia",
+                "url": "https://commons.wikimedia.org/wiki/File:Arheo_Muz_SK_(4).JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arheo_Muz_SK_(4).JPG/1200px-Arheo_Muz_SK_(4).JPG"
+            },
+            {
+                "image_id": 30248590,
+                "title": "LGI Brotherton Wing 002",
+                "caption": "LGI Brotherton Wing 002 Balconies at the Southern end of the Brotherton Wing at the Leeds General Infirmary. Taken on the afternoon of Saturday the 3rd of October 2009.",
+                "url": "https://commons.wikimedia.org/wiki/File:LGI_Brotherton_Wing_002.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LGI_Brotherton_Wing_002.jpg/450px-LGI_Brotherton_Wing_002.jpg"
+            },
+            {
+                "image_id": 30146167,
+                "title": "Homage to Kaiser Leopold I on August 7, 1658, by Ruprecht Hauer, 1658, oil on canvas - Stadtmuseum Fembohaus - Nuremberg, Germany - DSC02050",
+                "caption": "Homage to Kaiser Leopold I on August 7, 1658, by Ruprecht Hauer, 1658, oil on canvas - Stadtmuseum Fembohaus - Nuremberg, Germany - DSC02050 Exhibit in the Stadtmuseum Fembohaus - Nuremberg, Germany.",
+                "url": "https://commons.wikimedia.org/wiki/File:Homage_to_Kaiser_Leopold_I_on_August_7%2C_1658%2C_by_Ruprecht_Hauer%2C_1658%2C_oil_on_canvas_-_Stadtmuseum_Fembohaus_-_Nuremberg%2C_Germany_-_DSC02050.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Homage_to_Kaiser_Leopold_I_on_August_7%2C_1658%2C_by_Ruprecht_Hauer%2C_1658%2C_oil_on_canvas_-_Stadtmuseum_Fembohaus_-_Nuremberg%2C_Germany_-_DSC02050.jpg"
+            },
+            {
+                "image_id": 30038588,
+                "title": "Jonesboro, AR 013",
+                "caption": "Jonesboro, AR 013 Anchor from a former battleship on courthouse grounds",
+                "url": "https://commons.wikimedia.org/wiki/File:Jonesboro%2C_AR_013.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jonesboro%2C_AR_013.jpg/1200px-Jonesboro%2C_AR_013.jpg"
+            },
+            {
+                "image_id": 30220639,
+                "title": "Academy of sciences canberra ACT",
+                "caption": "Academy of sciences canberra ACT Shine Dome of the Australian Academy of Science at Canberra ACT. I took the photo",
+                "url": "https://commons.wikimedia.org/wiki/File:Academy_of_sciences_canberra_ACT.jpg",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/3/3a/Academy_of_sciences_canberra_ACT.jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Xanadu Houses",
+                "fact": "Construction of the Xanadu house in Kissimmee, Florida, began with the pouring of a concrete slab base and the erection of a tension ring 40 feet (12 m) in diameter to anchor the domed roof of what would become the \"Great Room\" of the house.",
+                "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Xanadu Houses",
+                "fact": "The Xanadu house in Kissimmee, Florida used an automated system controlled by Commodore microcomputers. The house had fifteen rooms; of these the kitchen, party room, health spa, and bedrooms all used computers and other electronic equipment heavily in their design.",
+                "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Booker T. Washington",
+                "fact": "In 1946, he was honored on the first coin to feature an African American, the Booker T. Washington Memorial Half Dollar, which was minted by the United States until 1951.On April 5, 1956, the hundredth anniversary of Washington's birth, the house where he was born in Franklin County, Virginia, was designated as the Booker T. Washington National Monument.",
+                "url": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "National Building Museum",
+                "fact": "The National Building Museum is located at 401 F Street NW in Washington, D.C.   It is a museum of \"architecture, design, engineering, construction, and urban planning\".",
+                "url": "https://en.wikipedia.org/wiki/National_Building_Museum",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "National Air and Space Museum",
+                "fact": "The National Air and Space Museum of the Smithsonian Institution, also called the Air and Space Museum, is a museum in Washington, D.C., US. It was established in 1946 as the National Air Museum and opened its main building on the National Mall near L'Enfant Plaza in 1976.",
+                "url": "https://en.wikipedia.org/wiki/National_Air_and_Space_Museum",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Native Americans in the United States",
+                "fact": "Most American Indians are comfortable with Indian, American Indian, and Native American. That term is reflected in the name chosen for the National Museum of the American Indian, which opened in 2004 on the Mall in Washington, DC.",
+                "url": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "National Air and Space Museum",
+                "fact": "The National Air and Space Museum of the Smithsonian Institution, also called the Air and Space Museum, is a museum in Washington, D.C., US.",
+                "url": "https://en.wikipedia.org/wiki/National_Air_and_Space_Museum",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Xanadu Houses",
+                "fact": "The interior of the house was cave-like, featuring cramped rooms and low ceilings, although it is not clear whether these accounts describe the same Xanadu House with a thirty-foot dome. The interiors used a cream color for the walls, and a pale green for the floor.",
+                "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "The Washington Post",
+                "fact": "The Washington Post (also known as the Post and, informally, WaPo) is an American daily newspaper published in Washington, D.C. It is the most-widely circulated newspaper within the Washington metropolitan area, and has a large national audience.",
+                "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Native Americans in the United States",
+                "fact": "That term is reflected in the name chosen for the National Museum of the American Indian, which opened in 2004 on the Mall in Washington, DC.",
+                "url": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Washington, D.C.",
+                "fact": "The Smithsonian American Art Museum and the National Portrait Gallery are housed in the Old Patent Office Building, near Washington's Chinatown. The Renwick Gallery is officially part of the Smithsonian American Art Museum but is in a separate building near the White House.",
+                "url": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Xanadu Houses",
+                "fact": "It had at least two entrances, and large porthole-type windows. The interior of the house was cave-like, featuring cramped rooms and low ceilings, although it is not clear whether these accounts describe the same Xanadu House with a thirty-foot dome.",
+                "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "History of American Indian schools",
+                "fact": "Investigations of the later twentieth century have revealed many documented cases of sexual, manual, physical and mental abuse occurring mostly in church-run schools. The National Museum of the American Indian also notes that some students had good memories of their school days, having learned skills and made lifelong friends.",
+                "url": "https://en.wikipedia.org/wiki/History_of_American_Indian_schools",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "National Building Museum",
+                "fact": "The building itself was formally renamed the National Building Museum in 1997.Every year, the annual Christmas in Washington program was filmed at the museum, with the President and First Lady until the show's cancellation in 2015.",
+                "url": "https://en.wikipedia.org/wiki/National_Building_Museum",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Washington, D.C.",
+                "fact": "The Renwick Gallery is officially part of the Smithsonian American Art Museum but is in a separate building near the White House. Other Smithsonian museums and galleries include: the Anacostia Community Museum in Southeast Washington; the National Postal Museum near Union Station; and the National Zoo in Woodley Park.",
+                "url": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Xanadu Houses",
+                "fact": "The interior of the house was cave-like, featuring cramped rooms and low ceilings, although it is not clear whether these accounts describe the same Xanadu House with a thirty-foot dome.",
+                "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+                "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_4"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc7640dba11ecb1e81171463288e9": {
+        "Q": "\"Are the satellites on the Soviet space control/monitoring ship Kosmonavt Yuriy Gagarin always oriented in the same direction?\"",
+        "A": [
+            "\"The satellites on the Soviet space control/monitoring ship Kosmonavt Yuriy Gagarin aren't always oriented in the same direction.\""
+        ],
+        "topic": "space craft",
+        "split": "train",
+        "Qcate": "YesNo",
+        "Guid": "d5bbc7640dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30290977,
+                "title": "Ship Kosmonavt Yuriy Gagarin",
+                "caption": "Ship Kosmonavt Yuriy Gagarin An elevated starboard view of a Soviet space control/monitoring ship Kosmonavt Yuriy Gagarin underway.",
+                "url": "https://commons.wikimedia.org/wiki/File:Ship_Kosmonavt_Yuriy_Gagarin.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ship_Kosmonavt_Yuriy_Gagarin.jpg/800px-Ship_Kosmonavt_Yuriy_Gagarin.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30284514,
+                "title": "Space control-monitoring ship \"Kosmonaut Yuri Gagarin\" in 1987 (2).png",
+                "caption": "Space control-monitoring ship \"Kosmonaut Yuri Gagarin\" in 1987 (2).png A port beam view of the Soviet space control-monitoring ship KOSMONAVT YURIY GAGARIN underway.",
+                "url": "https://commons.wikimedia.org/wiki/File:Space_control-monitoring_ship_%22Kosmonaut_Yuri_Gagarin%22_in_1987_%282%29.png",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Space_control-monitoring_ship_%22Kosmonaut_Yuri_Gagarin%22_in_1987_%282%29.png/800px-Space_control-monitoring_ship_%22Kosmonaut_Yuri_Gagarin%22_in_1987_%282%29.png"
+            },
+            {
+                "image_id": 30367226,
+                "title": "Yuri Gagarin (1961) - Restoration",
+                "caption": "Yuri Gagarin (1961) - Restoration Photograph of the Soviet cosmonaut Yuri Gagarin at a press conference during his visit to Finland.",
+                "url": "https://commons.wikimedia.org/wiki/File:Yuri_Gagarin_(1961)_-_Restoration.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Yuri_Gagarin_%281961%29_-_Restoration.jpg/479px-Yuri_Gagarin_%281961%29_-_Restoration.jpg"
+            },
+            {
+                "image_id": 30157379,
+                "title": "Yuri-Gagarin-1961-Helsinki-crop",
+                "caption": "Yuri-Gagarin-1961-Helsinki-crop Photograph of the Soviet cosmonaut Yuri Gagarin at a press conference during his visit to Finland.",
+                "url": "https://commons.wikimedia.org/wiki/File:Yuri-Gagarin-1961-Helsinki-crop.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yuri-Gagarin-1961-Helsinki-crop.jpg/399px-Yuri-Gagarin-1961-Helsinki-crop.jpg"
+            },
+            {
+                "image_id": 30283577,
+                "title": "Fidel-Gagarin-hug",
+                "caption": "Fidel-Gagarin-hug Fidel Castromeets cosmonautYuri Gagarin.",
+                "url": "https://commons.wikimedia.org/wiki/File:Fidel-Gagarin-hug.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fidel-Gagarin-hug.jpg/800px-Fidel-Gagarin-hug.jpg"
+            },
+            {
+                "image_id": 30243566,
+                "title": "Gemini 4 Astronauts Meet Yuri Gagarin",
+                "caption": "Gemini 4 Astronauts Meet Yuri Gagarin Soviet cosmonaut Yuri Gagarin shakes hand with NASA's Gemini 4 astronauts, Edward H. White II and James A. McDivitt at the Paris International Air Show in June 1965.",
+                "url": "https://commons.wikimedia.org/wiki/File:Gemini_4_Astronauts_Meet_Yuri_Gagarin.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gemini_4_Astronauts_Meet_Yuri_Gagarin.jpg/769px-Gemini_4_Astronauts_Meet_Yuri_Gagarin.jpg"
+            },
+            {
+                "image_id": 30055548,
+                "title": "Gagarin in Port Said Egypt 1962 salut",
+                "caption": "Gagarin in Port Said Egypt 1962 salut Yuri Gagarin in Port Said, the salut, Egypt, 1962",
+                "url": "https://commons.wikimedia.org/wiki/File:Gagarin_in_Port_Said_Egypt_1962_salut.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gagarin_in_Port_Said_Egypt_1962_salut.jpg/612px-Gagarin_in_Port_Said_Egypt_1962_salut.jpg"
+            },
+            {
+                "image_id": 30114033,
+                "title": "Yuri Gagarin in Sweden, 1964 (cropped)",
+                "caption": "Yuri Gagarin in Sweden, 1964 (cropped) Yuri Gagarin boarding a SAS Scandinavian Airlines Convair 440 for a flight to Goteborg",
+                "url": "https://commons.wikimedia.org/wiki/File:Yuri_Gagarin_in_Sweden%2C_1964_%28cropped%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yuri_Gagarin_in_Sweden%2C_1964_%28cropped%29.jpg/455px-Yuri_Gagarin_in_Sweden%2C_1964_%28cropped%29.jpg"
+            },
+            {
+                "image_id": 30255043,
+                "title": "\"Sol Phryne\" - Piraeus, 1984",
+                "caption": "\"Sol Phryne\" - Piraeus, 1984 The ferry Sol Phryne in Piraeus in 1984.",
+                "url": "https://commons.wikimedia.org/wiki/File:%22Sol_Phryne%22_-_Piraeus%2C_1984.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%22Sol_Phryne%22_-_Piraeus%2C_1984.jpg"
+            },
+            {
+                "image_id": 30338540,
+                "title": "Unveiling of Gagarin statue on The Mall, London (14 July 2011)",
+                "caption": "Unveiling of Gagarin statue on The Mall, London (14 July 2011) Unveiling of Gagarin statue on The Mall, London. At left is Elena Gagarina (Yuri Gagarin's daughter). At right is HRH Prince Michael of Kent.",
+                "url": "https://commons.wikimedia.org/wiki/File:Unveiling_of_Gagarin_statue_on_The_Mall%2C_London_(14_July_2011).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unveiling_of_Gagarin_statue_on_The_Mall%2C_London_%2814_July_2011%29.jpg/450px-Unveiling_of_Gagarin_statue_on_The_Mall%2C_London_%2814_July_2011%29.jpg"
+            },
+            {
+                "image_id": 30270765,
+                "title": "Mevrouw Kennedy bezoekt Burgerweeshuis te Amsterdam, Bestanddeelnr 913-5640",
+                "caption": "Mevrouw Kennedy bezoekt Burgerweeshuis te Amsterdam, Bestanddeelnr 913-5640",
+                "url": "https://commons.wikimedia.org/wiki/File:Mevrouw_Kennedy_bezoekt_Burgerweeshuis_te_Amsterdam%2C_Bestanddeelnr_913-5640.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mevrouw_Kennedy_bezoekt_Burgerweeshuis_te_Amsterdam%2C_Bestanddeelnr_913-5640.jpg/1200px-Mevrouw_Kennedy_bezoekt_Burgerweeshuis_te_Amsterdam%2C_Bestanddeelnr_913-5640.jpg"
+            },
+            {
+                "image_id": 30178032,
+                "title": "'A Drama in Livonia' by L\u00e9on Benett 25",
+                "caption": "'A Drama in Livonia' by L\u00e9on Benett 25 An illustration from Jules Verne's novel \"A Drama in Livonia\" (1893) drawn by Leon Benett.",
+                "url": "https://commons.wikimedia.org/wiki/File:'A_Drama_in_Livonia'_by_L%C3%A9on_Benett_25.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/'A_Drama_in_Livonia'_by_L%C3%A9on_Benett_25.jpg"
+            },
+            {
+                "image_id": 30260251,
+                "title": "Arnaud Massy, french golfeur (1920)",
+                "caption": "Arnaud Massy, french golfeur (1920)",
+                "url": "https://commons.wikimedia.org/wiki/File:Arnaud_Massy%2C_french_golfeur_(1920).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Arnaud_Massy%2C_french_golfeur_(1920).jpg"
+            },
+            {
+                "image_id": 30313728,
+                "title": "Research ship Meteor",
+                "caption": "Research ship Meteor The German research ship Meteor in Bremerhaven",
+                "url": "https://commons.wikimedia.org/wiki/File:Research_ship_Meteor.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Research_ship_Meteor.jpg/640px-Research_ship_Meteor.jpg"
+            },
+            {
+                "image_id": 30102163,
+                "title": "Hm Submarine Umbra Home From the Mediterranean - She 'torpedoed' An Enemy Plane. 17 and 18 February 1943, Devonport, HMS Umbra Has Returned Home After More Than 12 Months in Service in Mediterranean W A14975",
+                "caption": "Hm Submarine Umbra Home From the Mediterranean - She 'torpedoed' An Enemy Plane. 17 and 18 February 1943, Devonport, HMS Umbra Has Returned Home After More Than 12 Months in Service in Mediterranean W A14975 Hm Submarine Umbra Home From the Mediterranean - She \"torpedoed\" An Enemy Plane.",
+                "url": "https://commons.wikimedia.org/wiki/File:Hm_Submarine_Umbra_Home_From_the_Mediterranean_-_She_'torpedoed'_An_Enemy_Plane._17_and_18_February_1943%2C_Devonport%2C_HMS_Umbra_Has_Returned_Home_After_More_Than_12_Months_in_Service_in_Mediterranean_W_A14975.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hm_Submarine_Umbra_Home_From_the_Mediterranean_-_She_'torpedoed'_An_Enemy_Plane._17_and_18_February_1943%2C_Devonport%2C_HMS_Umbra_Has_Returned_Home_After_More_Than_12_Months_in_Service_in_Mediterranean_W_A14975.jpg/697px-thumbnail.jpg"
+            },
+            {
+                "image_id": 30275054,
+                "title": "Vostok",
+                "caption": "Vostok Soviet Vostok Spacecraft. I took this picture at a public display in the LBJ Library and Museum, Austin Texas.",
+                "url": "https://commons.wikimedia.org/wiki/File:Vostok.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vostok.jpg/400px-Vostok.jpg"
+            },
+            {
+                "image_id": 30229231,
+                "title": "Bundesarchiv Bild 183-15198-0006, Bergarbeiter Ansprache haltend",
+                "caption": "Bundesarchiv Bild 183-15198-0006, Bergarbeiter Ansprache haltend",
+                "url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-15198-0006%2C_Bergarbeiter_Ansprache_haltend.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bundesarchiv_Bild_183-15198-0006%2C_Bergarbeiter_Ansprache_haltend.jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "Kosmonavt Yuriy Gagarin (Russian: \u00ab\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0301\u0432\u0442 \u042e\u0301\u0440\u0438\u0439 \u0413\u0430\u0433\u0430\u0301\u0440\u0438\u043d\u00bb) was a Soviet space control-monitoring ship or Vigilship (Veladora) that was devoted to detecting and receiving satellite communications. Named after cosmonaut Yuri Gagarin, the ship was completed in December 1971 to support the Soviet space program.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "Kosmonavt Yuriy Gagarin (Russian: \u00ab\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0301\u0432\u0442 \u042e\u0301\u0440\u0438\u0439 \u0413\u0430\u0433\u0430\u0301\u0440\u0438\u043d\u00bb) was a Soviet space control-monitoring ship or Vigilship (Veladora) that was devoted to detecting and receiving satellite communications.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "In 1986, Kosmonavt Yuriy Gagarin was the world's largest communications ship and was the flagship of a fleet of communications ships. These ships greatly extended the tracking range when the orbits of cosmonauts and unmanned missions were not over the USSR.In 1975, the ship was a part of the Soviet-American Apollo-Soyuz joint test program.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "The maritime part fell under the responsibility of the Baltic- and Black sea shipping. The ships had home ports in Ukraine (Kosmonavt Yuriy Gagarin and the other surveillance ship Akademik Sergei Korolev), so after the fall of the Soviet Union they were transferred to Ukraine \u2013 ending their role in spaceflight.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Soviet ship Akademik Sergey Korolyov",
+                "fact": "The Akademik Sergey Korolyov (Russian: \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u043e\u0440\u043e\u043b\u0451\u0432) was a space control-monitoring ship or Vigilship (Veladora)  constructed in 1970 to support the Soviet space program.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Akademik_Sergey_Korolyov",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "The ships had home ports in Ukraine (Kosmonavt Yuriy Gagarin and the other surveillance ship Akademik Sergei Korolev), so after the fall of the Soviet Union they were transferred to Ukraine \u2013 ending their role in spaceflight.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Soviet ship Akademik Sergey Korolyov",
+                "fact": "Named after Sergey Korolyov, the head Soviet rocket engineer and designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s, the ship also conducted upper atmosphere and outer space research. In Soviet times, the Akademik Sergey Korolyov was a large communications ship which was part of a fleet of communications ships.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Akademik_Sergey_Korolyov",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "Named after cosmonaut Yuri Gagarin, the ship was completed in December 1971 to support the Soviet space program. The ship also conducted upper atmosphere and outer space research.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Soviet ship Akademik Sergey Korolyov",
+                "fact": "Named after Sergey Korolyov, the head Soviet rocket engineer and designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s, the ship also conducted upper atmosphere and outer space research.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Akademik_Sergey_Korolyov",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Soviet ship Kosmonavt Yuriy Gagarin",
+                "fact": "The ship also conducted upper atmosphere and outer space research. It had very distinguishable looks due to two extremely large and two smaller parabolic \"dish\" antennas placed on top of the hull.",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Kosmonavt_Yuriy_Gagarin",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "One Direction",
+                "fact": "They released a commercial for their third fragrance, \"You & I\", named after their 2014 song of the same name. In 2015, One Direction appeared in an advert for the Toyota Vios.",
+                "url": "https://en.wikipedia.org/wiki/One_Direction",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Deductive reasoning",
+                "fact": "The idea of \"deduction\" popularized in Sherlock Holmes stories is technically abduction, rather than deductive reasoning. Deductive reasoning goes in the same direction as that of the conditionals, whereas abductive reasoning goes in the direction contrary to that of the conditionals.",
+                "url": "https://en.wikipedia.org/wiki/Deductive_reasoning",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Same Direction",
+                "fact": "\"Same Direction\" is the third single from Hoobastank's second major studio album The Reason. It was released as a single in 2004, a couple of months after the release of \"The Reason\" as a single.",
+                "url": "https://en.wikipedia.org/wiki/Same_Direction",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Soviet ship Akademik Sergey Korolyov",
+                "fact": "In 1975, the ship was a part of the Soviet-American Apollo-Soyuz joint test program. Sold for scrapping and renamed OROL, arriving at Alang on 18 August 1996",
+                "url": "https://en.wikipedia.org/wiki/Soviet_ship_Akademik_Sergey_Korolyov",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Wind direction",
+                "fact": "Modern instruments used to measure wind speed and direction are called anemometers and wind vanes, respectively. These types of instruments are used by the wind energy industry, both for wind resource assessment and turbine control.",
+                "url": "https://en.wikipedia.org/wiki/Wind_direction",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Cardinal direction",
+                "fact": "To keep to a bearing is not, in general, the same as going in a straight direction along a great circle. Conversely, one can keep to a great circle and the bearing may change.",
+                "url": "https://en.wikipedia.org/wiki/Cardinal_direction",
+                "snippet_id": "d5bbc7640dba11ecb1e81171463288e9_0"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc7c80dba11ecb1e81171463288e9": {
+        "Q": "\"Does a Minnetonka Rhododendron flower have petals in a cup shape?\"",
+        "A": [
+            "\"No, a Minnetonka Rhododendron flower does not have petals in a cup shape.\""
+        ],
+        "topic": "flora",
+        "split": "val",
+        "Qcate": "YesNo",
+        "Guid": "d5bbc7c80dba11ecb1e81171463288e9",
+        "img_posFacts": [],
+        "img_negFacts": [
+            {
+                "image_id": 30264381,
+                "title": "Rhododendron ponticum (1)",
+                "caption": "Rhododendron ponticum (1)",
+                "url": "https://commons.wikimedia.org/wiki/File:Rhododendron_ponticum_(1).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rhododendron_ponticum_(1).jpg"
+            },
+            {
+                "image_id": 30139927,
+                "title": "Paris 75007 Champ-de-Mars Flower beds in spring 2012 (03) Rhododendron",
+                "caption": "Paris 75007 Champ-de-Mars Flower beds in spring 2012 (03) Rhododendron",
+                "url": "https://commons.wikimedia.org/wiki/File:Paris_75007_Champ-de-Mars_Flower_beds_in_spring_2012_(03)_Rhododendron.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Paris_75007_Champ-de-Mars_Flower_beds_in_spring_2012_(03)_Rhododendron.jpg/315px-Paris_75007_Champ-de-Mars_Flower_beds_in_spring_2012_(03)_Rhododendron.jpg"
+            },
+            {
+                "image_id": 30264399,
+                "title": "Old Fairfax County Courthouse, Fairfax City",
+                "caption": "Old Fairfax County Courthouse, Fairfax City  Fairfax County Courthouse",
+                "url": "https://commons.wikimedia.org/wiki/File:Old_Fairfax_County_Courthouse%2C_Fairfax_City.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Old_Fairfax_County_Courthouse%2C_Fairfax_City.JPG/800px-Old_Fairfax_County_Courthouse%2C_Fairfax_City.JPG"
+            },
+            {
+                "image_id": 30261978,
+                "title": "Bratislava 2007-05-21 12",
+                "caption": "Bratislava 2007-05-21 12",
+                "url": "https://commons.wikimedia.org/wiki/File:Bratislava_2007-05-21_12.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bratislava_2007-05-21_12.jpg"
+            },
+            {
+                "image_id": 30073313,
+                "title": "Bocho\u0159, n\u00e1ves",
+                "caption": "Bocho\u0159, n\u00e1ves",
+                "url": "https://commons.wikimedia.org/wiki/File:Bocho%C5%99%2C_n%C3%A1ves.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bocho%C5%99%2C_n%C3%A1ves.jpg"
+            },
+            {
+                "image_id": 30298056,
+                "title": "EA inside 1",
+                "caption": "EA inside 1",
+                "url": "https://commons.wikimedia.org/wiki/File:EA_inside_1.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/EA_inside_1.JPG/1200px-EA_inside_1.JPG"
+            },
+            {
+                "image_id": 30165149,
+                "title": "Westfield Valley Fair 1826 06",
+                "caption": "Westfield Valley Fair 1826 06  The Westfield Valley Fair mall in San Jose and Santa Clara, California, USA.",
+                "url": "https://commons.wikimedia.org/wiki/File:Westfield_Valley_Fair_1826_06.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Westfield_Valley_Fair_1826_06.JPG/768px-Westfield_Valley_Fair_1826_06.JPG"
+            },
+            {
+                "image_id": 30030747,
+                "title": "AOC Banning Justice Center, Exterior",
+                "caption": "AOC Banning Justice Center, Exterior AOC Banning Justice Center, designed by Binder Architects and completed in 2015 in Banning, California.",
+                "url": "https://commons.wikimedia.org/wiki/File:AOC_Banning_Justice_Center%2C_Exterior.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/AOC_Banning_Justice_Center%2C_Exterior.jpg"
+            },
+            {
+                "image_id": 30035774,
+                "title": "AlbanySHS2",
+                "caption": "AlbanySHS2 Albany Senior High School Main Building",
+                "url": "https://commons.wikimedia.org/wiki/File:AlbanySHS2.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/AlbanySHS2.jpg/640px-AlbanySHS2.jpg"
+            },
+            {
+                "image_id": 30087204,
+                "title": "Prince William County, VA, Courthouse IMG 4347",
+                "caption": "Prince William County, VA, Courthouse IMG 4347  July 2011 photograph of Prince William County Courthouse in Manassas, Virginia, taken with a Canon camera.",
+                "url": "https://commons.wikimedia.org/wiki/File:Prince_William_County%2C_VA%2C_Courthouse_IMG_4347.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Prince_William_County%2C_VA%2C_Courthouse_IMG_4347.JPG"
+            },
+            {
+                "image_id": 30210307,
+                "title": "Lower Heidelberg Township Bldg, BerksCo PA 01",
+                "caption": "Lower Heidelberg Township Bldg, BerksCo PA 01  Lower Heidelberg Township, Berks County, Pennsylvania Office, Berks County, PA.",
+                "url": "https://commons.wikimedia.org/wiki/File:Lower_Heidelberg_Township_Bldg%2C_BerksCo_PA_01.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lower_Heidelberg_Township_Bldg%2C_BerksCo_PA_01.JPG"
+            },
+            {
+                "image_id": 30190192,
+                "title": "Territorial Army Training Centre, Ellesmere Port (2)",
+                "caption": "Territorial Army Training Centre, Ellesmere Port (2)  Territorial Army Training Centre, Stanney Lane, Ellesmere Port, Cheshire, England.",
+                "url": "https://commons.wikimedia.org/wiki/File:Territorial_Army_Training_Centre%2C_Ellesmere_Port_%282%29.JPG",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Territorial_Army_Training_Centre%2C_Ellesmere_Port_%282%29.JPG/640px-Territorial_Army_Training_Centre%2C_Ellesmere_Port_%282%29.JPG"
+            },
+            {
+                "image_id": 30286386,
+                "title": "Fairfax County Parkway - Virginia (6328015231)",
+                "caption": "Fairfax County Parkway - Virginia (6328015231)",
+                "url": "https://commons.wikimedia.org/wiki/File:Fairfax_County_Parkway_-_Virginia_(6328015231).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Fairfax_County_Parkway_-_Virginia_%286328015231%29.jpg/800px-Fairfax_County_Parkway_-_Virginia_%286328015231%29.jpg"
+            },
+            {
+                "image_id": 30275515,
+                "title": "Dallas July 2015 06 (triple underpass and grassy knoll)",
+                "caption": "Dallas July 2015 06 (triple underpass and grassy knoll) Dealey Plaza, including the triple underpass and the grassy knoll, in Dallas, Texas (United States).",
+                "url": "https://commons.wikimedia.org/wiki/File:Dallas_July_2015_06_(triple_underpass_and_grassy_knoll).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dallas_July_2015_06_(triple_underpass_and_grassy_knoll).jpg/1024px-Dallas_July_2015_06_(triple_underpass_and_grassy_knoll).jpg"
+            },
+            {
+                "image_id": 30282305,
+                "title": "Downtown Fairfax, Missouri in 2019",
+                "caption": "Downtown Fairfax, Missouri in 2019 Downtown Fairfax, Missouri in June 4th 2019.",
+                "url": "https://commons.wikimedia.org/wiki/File:Downtown_Fairfax%2C_Missouri_in_2019.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Downtown_Fairfax%2C_Missouri_in_2019.jpg/800px-Downtown_Fairfax%2C_Missouri_in_2019.jpg"
+            },
+            {
+                "image_id": 30042689,
+                "title": "Gatehouse lodge, St Colm House (geograph 3988744)",
+                "caption": "Gatehouse lodge, St Colm House (geograph 3988744) Gatehouse lodge, St Colm House",
+                "url": "https://commons.wikimedia.org/wiki/File:Gatehouse_lodge%2C_St_Colm_House_(geograph_3988744).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gatehouse_lodge%2C_St_Colm_House_(geograph_3988744).jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Rhododendron macrophyllum",
+                "fact": "Rhododendron macrophyllum, the Pacific rhododendron, California rosebay, California rhododendron, coast rhododendron or big leaf rhododendron, is a large-leaved species of Rhododendron native to the Pacific Coast of North America. It is the state flower of Washington.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron_macrophyllum",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "A new calcium-tolerant stock of rhododendrons (trademarked as 'Inkarho') has been exhibited at the RHS Chelsea Flower Show in London (2011). Individual hybrids of rhododendrons have been grafted on to a rootstock on a single rhododendron plant that was found growing in a chalk quarry.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Rhododendron macrophyllum",
+                "fact": "Rhododendron macrophyllum, the Pacific rhododendron, California rosebay, California rhododendron, coast rhododendron or big leaf rhododendron, is a large-leaved species of Rhododendron native to the Pacific Coast of North America.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron_macrophyllum",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Rhododendron ponticum",
+                "fact": "Bees became paralysed and  exhibited excessive grooming or other distress behaviours after feeding on Rhododendron nectar, and ate less food than bees fed a control nectar. In contrast the buff-tailed bumblebee (Bombus terrestris) was not affected by the rhododendron nectar.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron_ponticum",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "Rhododendron bud blast, a fungal condition that causes buds to turn brown and dry, and not open, is caused by the fungus Pycnostysanus azaleae, which may be brought to the plant by the rhododendron leafhopper, Graphocephala fennahi.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "Pink Rhododendron (Rhododendron campanulatum) is the State Flower of Himachal Pradesh, India. Rhododendron is also the provincial flower of Jiangxi, China and the state flower of Nagaland, the 16th state of the Indian Union.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Nepalese rupee",
+                "fact": "It was decided to print a red Rhododendron flower (Nepal's national flower) on top of the watermark. Notes of these denominations which were issued in 2009 and thereafter are printed on paper which has a Rhododendron flower as watermark instead of the royal portrait and were therefore released without the additional overprint in red.",
+                "url": "https://en.wikipedia.org/wiki/Nepalese_rupee",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Rhododendron campanulatum",
+                "fact": "Rhododendron campanulatum, the bell-flowered rhododendron or bell rhododendron, is a species of flowering plant in the family Ericaceae, native to the Himalayas and Tibet. It is the state flower of Himachal Pradesh.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron_campanulatum",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "Rhododendron maximum, the most widespread rhododendron of the Appalachian Mountains, is the state flower of the US state of West Virginia, and is in the Flag of West Virginia.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "The juice of rhododendron flower is used to make a squash called burans (named after the flower) in the hilly regions of Uttarakhand.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "In the Indian state of Himachal Pradesh, rhododendron flowers have been used for some time to make popular fruit and flower wines.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "Rhododendron is also the provincial flower of Jiangxi, China and the state flower of Nagaland, the 16th state of the Indian Union.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "In the language of flowers, the Rhododendron symbolizes danger and to beware. Rhododendron arboreum (lali guransh) is the national flower of Nepal.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "The rhododendron is the national flower of Nepal, where the flower is considered edible and enjoyed for its sour taste. The pickled flower can last for months and the flower juice is also marketed.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Rhododendron",
+                "fact": "The juice of rhododendron flower is used to make a squash called burans (named after the flower) in the hilly regions of Uttarakhand. It is admired for its distinctive flavor and color.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Rhododendron campanulatum",
+                "fact": "Rhododendron campanulatum, the bell-flowered rhododendron or bell rhododendron, is a species of flowering plant in the family Ericaceae, native to the Himalayas and Tibet.",
+                "url": "https://en.wikipedia.org/wiki/Rhododendron_campanulatum",
+                "snippet_id": "d5bbc7c80dba11ecb1e81171463288e9_6"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc8720dba11ecb1e81171463288e9": {
+        "Q": "\"What water-related object is sitting in front of the Torre del Reloj?\"",
+        "A": [
+            "\"A fountain is sitting in front of the Torre del Reloj.\""
+        ],
+        "topic": "plaza",
+        "split": "val",
+        "Qcate": "Others",
+        "Guid": "d5bbc8720dba11ecb1e81171463288e9",
+        "img_posFacts": [],
+        "img_negFacts": [
+            {
+                "image_id": 30379225,
+                "title": "Madrid - Edificio Metropolis",
+                "caption": "Madrid - Edificio Metropolis",
+                "url": "https://commons.wikimedia.org/wiki/File:Madrid_-_Edificio_Metropolis.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Madrid_-_Edificio_Metropolis.jpg/768px-Madrid_-_Edificio_Metropolis.jpg"
+            },
+            {
+                "image_id": 30290438,
+                "title": "Rambla Nova, Tarragona-1",
+                "caption": "Rambla Nova, Tarragona-1",
+                "url": "https://commons.wikimedia.org/wiki/File:Rambla_Nova%2C_Tarragona-1.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rambla_Nova%2C_Tarragona-1.JPG/800px-Rambla_Nova%2C_Tarragona-1.JPG"
+            },
+            {
+                "image_id": 30354956,
+                "title": "Eglise St Joseph - Grenoble",
+                "caption": "Eglise St Joseph - Grenoble",
+                "url": "https://commons.wikimedia.org/wiki/File:Eglise_St_Joseph_-_Grenoble.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eglise_St_Joseph_-_Grenoble.JPG/1024px-Eglise_St_Joseph_-_Grenoble.JPG"
+            },
+            {
+                "image_id": 30062986,
+                "title": "Plaza de Col\u00f3n (Madrid) 12",
+                "caption": "Plaza de Col\u00f3n (Madrid) 12 Night view from the Plaza de Colon (\"Columbus Square\") in Madrid (Spain). At the centre, the Monument to Cristopher Columbus (1885).",
+                "url": "https://commons.wikimedia.org/wiki/File:Plaza_de_Col%C3%B3n_%28Madrid%29_12.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plaza_de_Col%C3%B3n_%28Madrid%29_12.jpg/526px-Plaza_de_Col%C3%B3n_%28Madrid%29_12.jpg"
+            },
+            {
+                "image_id": 30168280,
+                "title": "Das Reiterdenkmal f\u00fcr Erzherzog Karl, dem siegreichen Feldherrn der Schlacht bei Aspern gegen Napoleon - panoramio",
+                "caption": "Das Reiterdenkmal f\u00fcr Erzherzog Karl, dem siegreichen Feldherrn der Schlacht bei Aspern gegen Napoleon - panoramio",
+                "url": "https://commons.wikimedia.org/wiki/File:Das_Reiterdenkmal_f%C3%BCr_Erzherzog_Karl%2C_dem_siegreichen_Feldherrn_der_Schlacht_bei_Aspern_gegen_Napoleon_-_panoramio.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Das_Reiterdenkmal_f%C3%BCr_Erzherzog_Karl%2C_dem_siegreichen_Feldherrn_der_Schlacht_bei_Aspern_gegen_Napoleon_-_panoramio.jpg"
+            },
+            {
+                "image_id": 30159775,
+                "title": "Rambla de Canaletes, Barcelona - panoramio (1)",
+                "caption": "Rambla de Canaletes, Barcelona - panoramio (1)",
+                "url": "https://commons.wikimedia.org/wiki/File:Rambla_de_Canaletes%2C_Barcelona_-_panoramio_(1).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rambla_de_Canaletes%2C_Barcelona_-_panoramio_(1).jpg/800px-Rambla_de_Canaletes%2C_Barcelona_-_panoramio_(1).jpg"
+            },
+            {
+                "image_id": 30046943,
+                "title": "Spain - Barcelona, La Rambla and Mirador de Colom - panoramio",
+                "caption": "Spain - Barcelona, La Rambla and Mirador de Colom - panoramio",
+                "url": "https://commons.wikimedia.org/wiki/File:Spain_-_Barcelona%2C_La_Rambla_and_Mirador_de_Colom_-_panoramio.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Spain_-_Barcelona%2C_La_Rambla_and_Mirador_de_Colom_-_panoramio.jpg/800px-Spain_-_Barcelona%2C_La_Rambla_and_Mirador_de_Colom_-_panoramio.jpg"
+            },
+            {
+                "image_id": 30354794,
+                "title": "DD-Schnurbaum-Allee-K\u00fclz-Ring-1",
+                "caption": "DD-Schnurbaum-Allee-K\u00fclz-Ring-1",
+                "url": "https://commons.wikimedia.org/wiki/File:DD-Schnurbaum-Allee-K%C3%BClz-Ring-1.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/DD-Schnurbaum-Allee-K%C3%BClz-Ring-1.jpg"
+            },
+            {
+                "image_id": 30360592,
+                "title": "The Figurehead Statue, Fulham Reach - London. (29105028315)",
+                "caption": "The Figurehead Statue, Fulham Reach - London. (29105028315)",
+                "url": "https://commons.wikimedia.org/wiki/File:The_Figurehead_Statue%2C_Fulham_Reach_-_London._(29105028315).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Figurehead_Statue%2C_Fulham_Reach_-_London._(29105028315).jpg/462px-The_Figurehead_Statue%2C_Fulham_Reach_-_London._(29105028315).jpg"
+            },
+            {
+                "image_id": 30191557,
+                "title": "Monumento a Miguel de Cervantes - 03",
+                "caption": "Monumento a Miguel de Cervantes - 03 Monument to Miguel de Cervantes and Espa\u00f1a Building, Madrid.",
+                "url": "https://commons.wikimedia.org/wiki/File:Monumento_a_Miguel_de_Cervantes_-_03.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Monumento_a_Miguel_de_Cervantes_-_03.jpg/431px-Monumento_a_Miguel_de_Cervantes_-_03.jpg"
+            },
+            {
+                "image_id": 30232742,
+                "title": "Saint-Germain-l'Auxerrois, Paris, France - panoramio (80)",
+                "caption": "Saint-Germain-l'Auxerrois, Paris, France - panoramio (80)",
+                "url": "https://commons.wikimedia.org/wiki/File:Saint-Germain-l'Auxerrois%2C_Paris%2C_France_-_panoramio_(80).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Saint-Germain-l'Auxerrois%2C_Paris%2C_France_-_panoramio_(80).jpg/646px-Saint-Germain-l'Auxerrois%2C_Paris%2C_France_-_panoramio_(80).jpg"
+            },
+            {
+                "image_id": 30379454,
+                "title": "Val\u00e8ncia Pla\u00e7a de la Reina",
+                "caption": "Val\u00e8ncia Pla\u00e7a de la Reina Photo of Placa de la Reina (Queen's Square) in Valencia, Spain",
+                "url": "https://commons.wikimedia.org/wiki/File:Val%C3%A8ncia_Pla%C3%A7a_de_la_Reina.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Val%C3%A8ncia_Pla%C3%A7a_de_la_Reina.jpg"
+            },
+            {
+                "image_id": 30314170,
+                "title": "Max-Josefs-Platz Heilig-Geist-Str. Nepomuk-Brunnen Rosenheim-1",
+                "caption": "Max-Josefs-Platz Heilig-Geist-Str. Nepomuk-Brunnen Rosenheim-1",
+                "url": "https://commons.wikimedia.org/wiki/File:Max-Josefs-Platz_Heilig-Geist-Str._Nepomuk-Brunnen_Rosenheim-1.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Max-Josefs-Platz_Heilig-Geist-Str._Nepomuk-Brunnen_Rosenheim-1.jpg/447px-Max-Josefs-Platz_Heilig-Geist-Str._Nepomuk-Brunnen_Rosenheim-1.jpg"
+            },
+            {
+                "image_id": 30337834,
+                "title": "Edificio Espa\u00f1a (Madrid) 03",
+                "caption": "Edificio Espa\u00f1a (Madrid) 03 View of the south-west facade of Edificio Espana from Plaza de Espana (square) in Madrid (Spain).",
+                "url": "https://commons.wikimedia.org/wiki/File:Edificio_Espa%C3%B1a_(Madrid)_03.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Edificio_Espa%C3%B1a_(Madrid)_03.jpg"
+            },
+            {
+                "image_id": 30272898,
+                "title": "Corpus Christi Catholic Church, Brixton Hill - geograph.org.uk - 472908",
+                "caption": "Corpus Christi Catholic Church, Brixton Hill - geograph.org.uk - 472908 Corpus Christi Catholic Church, Brixton Hill The church is between Trent Road and Horsford Road, SW2.",
+                "url": "https://commons.wikimedia.org/wiki/File:Corpus_Christi_Catholic_Church,_Brixton_Hill_-_geograph.org.uk_-_472908.jpg",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_Christi_Catholic_Church,_Brixton_Hill_-_geograph.org.uk_-_472908.jpg"
+            },
+            {
+                "image_id": 30324034,
+                "title": "Lombard Street from Coit Tower, June 2017",
+                "caption": "Lombard Street from Coit Tower, June 2017  Lombard Street viewed from Coit Tower in June 2017",
+                "url": "https://commons.wikimedia.org/wiki/File:Lombard_Street_from_Coit_Tower%2C_June_2017.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lombard_Street_from_Coit_Tower%2C_June_2017.JPG/1280px-Lombard_Street_from_Coit_Tower%2C_June_2017.JPG"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Chiclana de la Frontera",
+                "fact": "The Torre del Puerco (36.331186\u00b0N 6.161276\u00b0W\ufeff / 36.331186; -6.161276) dates to the 16th century, but later was used as a defensive post during the Battle of Barrosa in 1811. The Torre Bermeja (36.374989\u00b0N 6.191318\u00b0W\ufeff / 36.374989; -6.191318) is a defensive tower located on the Playa de la Barrosa.",
+                "url": "https://en.wikipedia.org/wiki/Chiclana_de_la_Frontera",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Puerta del Reloj, Cartagena",
+                "fact": "The Puerta del Reloj Spanish pronunciation: [\u02c8pwe\u027eta \u00f0el \u02c8relox], Torre del Reloj Spanish pronunciation: [\u02c8tore \u00f0el \u02c8relox] or Boca del Puente Spanish pronunciation: [\u02c8boka \u00f0el \u02c8pwente] is the main city gate of the historic center of Cartagena de Indias, in Colombia and the original entrance of the fortified city.",
+                "url": "https://en.wikipedia.org/wiki/Puerta_del_Reloj,_Cartagena",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Catemaco",
+                "fact": "Other landmarks in the city include the Statue of the Fisherman, the Torre del Reloj (Clock Tower), the Brizuela Absal\u00f3n House, the Gasca Blanco House and the Herrera Garc\u00eda House. The Casa de los Tesoros is a large gift shop, which offers bagels, bizcochos and Mexican handcrafts and folk art.",
+                "url": "https://en.wikipedia.org/wiki/Catemaco",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Chiclana de la Frontera",
+                "fact": "The Torre del Reloj (36.418191\u00b0N 6.146216\u00b0W\ufeff / 36.418191; -6.146216) is the clock tower, popularly known as Arquillo Clock, and is one of the most emblematic buildings of Chiclana, located on the Plaza Mayor.",
+                "url": "https://en.wikipedia.org/wiki/Chiclana_de_la_Frontera",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Luanco",
+                "fact": "Luanco was an important fishing and whaling port. Currently, Luanco is a relevant tourist point in norther Spain, well known by its historic buildings (Santa Mar\u00eda church, the Torre del Reloj or the Palace of Men\u00e9ndez Pola), the beaches of Santa Mar\u00eda and La Ribera and gastronomy as well.",
+                "url": "https://en.wikipedia.org/wiki/Luanco",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Puerta del Reloj, Cartagena",
+                "fact": "It is located between the squares Plaza de Independencia and Plaza de los Coches. The name \"Puerta del Reloj\" responds to the clock with which it was crowned at the beginning of the 18th century.",
+                "url": "https://en.wikipedia.org/wiki/Puerta_del_Reloj,_Cartagena",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Luanco",
+                "fact": "Currently, Luanco is a relevant tourist point in norther Spain, well known by its historic buildings (Santa Mar\u00eda church, the Torre del Reloj or the Palace of Men\u00e9ndez Pola), the beaches of Santa Mar\u00eda and La Ribera and gastronomy as well.",
+                "url": "https://en.wikipedia.org/wiki/Luanco",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Cartagena, Colombia",
+                "fact": "The main entrance to downtown is the Puerta del Reloj (Clock Gate), which exits onto the Plaza de los Coches (Square of the Carriages). A few steps farther is the Plaza de la Aduana (Customs Square), next to the mayor's office.",
+                "url": "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Chiclana de la Frontera",
+                "fact": "There are three significant towers in the area. The Torre del Puerco (36.331186\u00b0N 6.161276\u00b0W\ufeff / 36.331186; -6.161276) dates to the 16th century, but later was used as a defensive post during the Battle of Barrosa in 1811.",
+                "url": "https://en.wikipedia.org/wiki/Chiclana_de_la_Frontera",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Alc\u00e1zar de los Reyes Cristianos",
+                "fact": "The tower was previously known as  \u2018The Clock Tower\u2019 (Torre del Reloj), owing its name to the clock that was previously house within.",
+                "url": "https://en.wikipedia.org/wiki/Alc\u00e1zar_de_los_Reyes_Cristianos",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Alc\u00e1zar de los Reyes Cristianos",
+                "fact": "Tower of Homage (La torre del Homenaje), of octagonal shape, is situated in the Northeast corner. The tower was previously known as  \u2018The Clock Tower\u2019 (Torre del Reloj), owing its name to the clock that was previously house within.",
+                "url": "https://en.wikipedia.org/wiki/Alc\u00e1zar_de_los_Reyes_Cristianos",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "UCV Clock Tower",
+                "fact": "The UCV Clock Tower, also known by its Spanish name Torre del Reloj de la UCV, or Reloj de la UCV, is a monument made of prestressed concrete.",
+                "url": "https://en.wikipedia.org/wiki/UCV_Clock_Tower",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Catemaco",
+                "fact": "Other landmarks in the city include the Statue of the Fisherman, the Torre del Reloj (Clock Tower), the Brizuela Absal\u00f3n House, the Gasca Blanco House and the Herrera Garc\u00eda House.",
+                "url": "https://en.wikipedia.org/wiki/Catemaco",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Alc\u00e1zar de los Reyes Cristianos",
+                "fact": "The tower was previously known as  \u2018The Clock Tower\u2019 (Torre del Reloj), owing its name to the clock that was previously house within. The interior has Gothic features including an ogival ceiling.",
+                "url": "https://en.wikipedia.org/wiki/Alc\u00e1zar_de_los_Reyes_Cristianos",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Puerta del Reloj, Cartagena",
+                "fact": "Among the locals this gate is known as Boca del Puente, but for non-natives of Cartagena it is simply the Puerta del Reloj.",
+                "url": "https://en.wikipedia.org/wiki/Puerta_del_Reloj,_Cartagena",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "Cartagena, Colombia",
+                "fact": "The main entrance to downtown is the Puerta del Reloj (Clock Gate), which exits onto the Plaza de los Coches (Square of the Carriages).",
+                "url": "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+                "snippet_id": "d5bbc8720dba11ecb1e81171463288e9_6"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc8cc0dba11ecb1e81171463288e9": {
+        "Q": "\"How many ground floor entrances are there to the Neumayer station in Antarctica?\"",
+        "A": [
+            "\"There is one ground floor entrance to the Neumayer station in Antarctica.\""
+        ],
+        "topic": "research stations antarctica",
+        "split": "train",
+        "Qcate": "number",
+        "Guid": "d5bbc8cc0dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30114251,
+                "title": "Neumayer Station Antarctica 2009-12 2",
+                "caption": "Neumayer Station Antarctica 2009-12 2 German Antarctic research base Neumayer Station III, located in Dronning Maud Land, Antarctica, operated by the Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)",
+                "url": "https://commons.wikimedia.org/wiki/File:Neumayer_Station_Antarctica_2009-12_2.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Neumayer_Station_Antarctica_2009-12_2.jpg/800px-Neumayer_Station_Antarctica_2009-12_2.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30072672,
+                "title": "Ask\u00f6 Laboratory (harbour)",
+                "caption": "Ask\u00f6 Laboratory (harbour) Harbour of the biological field station Asko Laboratory, situated on the island of Asko, about 90 km south of Stockholm and 50 km north of Nykoping, Sweden",
+                "url": "https://commons.wikimedia.org/wiki/File:Ask%C3%B6_Laboratory_(harbour).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ask%C3%B6_Laboratory_(harbour).jpg/800px-Ask%C3%B6_Laboratory_(harbour).jpg"
+            },
+            {
+                "image_id": 30301415,
+                "title": "Akademik Lomonosov 20190823, cropped",
+                "caption": "Akademik Lomonosov 20190823, cropped The first Russian floating nuclear power station, Akademik Lomonosov, being transported, 23 August 2019.",
+                "url": "https://commons.wikimedia.org/wiki/File:Akademik_Lomonosov_20190823%2C_cropped.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Akademik_Lomonosov_20190823%2C_cropped.jpg"
+            },
+            {
+                "image_id": 30253534,
+                "title": "Chantier Station M\u00e9tro Arcueil Cachan Cachan 3",
+                "caption": "Chantier Station M\u00e9tro Arcueil Cachan Cachan 3",
+                "url": "https://commons.wikimedia.org/wiki/File:Chantier_Station_M%C3%A9tro_Arcueil_Cachan_Cachan_3.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chantier_Station_M%C3%A9tro_Arcueil_Cachan_Cachan_3.jpg/250px-Chantier_Station_M%C3%A9tro_Arcueil_Cachan_Cachan_3.jpg"
+            },
+            {
+                "image_id": 30296361,
+                "title": "Float-on float-off ship MV Condock V",
+                "caption": "Float-on float-off ship MV Condock V U.S. Navy mine countermeasures ship USS Gladiator rests securely inside the cargo hold of Military Sealift Command-chartered float-on/float-off ship MV Condock V. IMO-number: 8404991 MMSI-number: 218510000 Call sign: DIJH Length: 107 m Beam: 10 m",
+                "url": "https://commons.wikimedia.org/wiki/File:Float-on_float-off_ship_MV_Condock_V.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Float-on_float-off_ship_MV_Condock_V.jpg/800px-Float-on_float-off_ship_MV_Condock_V.jpg"
+            },
+            {
+                "image_id": 30060086,
+                "title": "Calpe Puerto 02 JMM",
+                "caption": "Calpe Puerto 02 JMM",
+                "url": "https://commons.wikimedia.org/wiki/File:Calpe_Puerto_02_JMM.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Calpe_Puerto_02_JMM.JPG"
+            },
+            {
+                "image_id": 30089514,
+                "title": "HK Star Ferry Harbour Tour Ship",
+                "caption": "HK Star Ferry Harbour Tour Ship HK Star Ferry Harbour Tour Ship",
+                "url": "https://commons.wikimedia.org/wiki/File:HK_Star_Ferry_Harbour_Tour_Ship.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/HK_Star_Ferry_Harbour_Tour_Ship.jpg"
+            },
+            {
+                "image_id": 30275053,
+                "title": "TU Dresden 47",
+                "caption": "TU Dresden 47",
+                "url": "https://commons.wikimedia.org/wiki/File:TU_Dresden_47.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TU_Dresden_47.jpg/800px-TU_Dresden_47.jpg"
+            },
+            {
+                "image_id": 30320249,
+                "title": "Manannan Douglas",
+                "caption": "Manannan Douglas HSC Manannan in Douglas, Isle of Man.",
+                "url": "https://commons.wikimedia.org/wiki/File:Manannan_Douglas.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Manannan_Douglas.jpg/800px-Manannan_Douglas.jpg"
+            },
+            {
+                "image_id": 30153118,
+                "title": "Benkid77 Liverpool Mersey Ferry Terminal Building",
+                "caption": "Benkid77 Liverpool Mersey Ferry Terminal Building  Mersey Ferry terminal building, Liverpool",
+                "url": "https://commons.wikimedia.org/wiki/File:Benkid77_Liverpool_Mersey_Ferry_Terminal_Building.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Benkid77_Liverpool_Mersey_Ferry_Terminal_Building.JPG/800px-Benkid77_Liverpool_Mersey_Ferry_Terminal_Building.JPG"
+            },
+            {
+                "image_id": 30282256,
+                "title": "Mersey Ferry Snowdrop at East Float Dock, Birkenhead",
+                "caption": "Mersey Ferry Snowdrop at East Float Dock, Birkenhead",
+                "url": "https://commons.wikimedia.org/wiki/File:Mersey_Ferry_Snowdrop_at_East_Float_Dock%2C_Birkenhead.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mersey_Ferry_Snowdrop_at_East_Float_Dock%2C_Birkenhead.JPG/800px-Mersey_Ferry_Snowdrop_at_East_Float_Dock%2C_Birkenhead.JPG"
+            },
+            {
+                "image_id": 30378723,
+                "title": "Vyborg, Leningrad Oblast, Russia - panoramio (32)",
+                "caption": "Vyborg, Leningrad Oblast, Russia - panoramio (32)",
+                "url": "https://commons.wikimedia.org/wiki/File:Vyborg%2C_Leningrad_Oblast%2C_Russia_-_panoramio_(32).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vyborg%2C_Leningrad_Oblast%2C_Russia_-_panoramio_(32).jpg/1024px-Vyborg%2C_Leningrad_Oblast%2C_Russia_-_panoramio_(32).jpg"
+            },
+            {
+                "image_id": 30351797,
+                "title": "JMSDF YF-2138 left front view at Maizuru Naval Base July 29, 2017 02",
+                "caption": "JMSDF YF-2138 left front view at Maizuru Naval Base July 29, 2017 02",
+                "url": "https://commons.wikimedia.org/wiki/File:JMSDF_YF-2138_left_front_view_at_Maizuru_Naval_Base_July_29%2C_2017_02.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/JMSDF_YF-2138_left_front_view_at_Maizuru_Naval_Base_July_29%2C_2017_02.jpg"
+            },
+            {
+                "image_id": 30168328,
+                "title": "\u0422\u0435\u043f\u043b\u043e\u0445\u043e\u0434 \u0412 \u041f\u043e\u044f\u0440\u043a\u043e\u0432, \u0444\u0435\u0432\u0440\u0430\u043b\u044c 2015 \u04444",
+                "caption": "\u0422\u0435\u043f\u043b\u043e\u0445\u043e\u0434 \u0412 \u041f\u043e\u044f\u0440\u043a\u043e\u0432, \u0444\u0435\u0432\u0440\u0430\u043b\u044c 2015 \u04444",
+                "url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B4_%D0%92_%D0%9F%D0%BE%D1%8F%D1%80%D0%BA%D0%BE%D0%B2%2C_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C_2015_%D1%844.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B4_%D0%92_%D0%9F%D0%BE%D1%8F%D1%80%D0%BA%D0%BE%D0%B2%2C_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C_2015_%D1%844.JPG/1200px-%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%B4_%D0%92_%D0%9F%D0%BE%D1%8F%D1%80%D0%BA%D0%BE%D0%B2%2C_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C_2015_%D1%844.JPG"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Women in Antarctica",
+                "fact": "The first all-female over-wintering group is from Germany and spends the 1990-1991 winter at Georg von Neumayer, with the first German female station leader and medical doctor Monika Puskeppeleit. In 1991 In-Young Ahn is the first female leader of an Asian research station (King Sejong Station), and the first South Korean woman to step onto Antarctica.",
+                "url": "https://en.wikipedia.org/wiki/Women_in_Antarctica",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Women in Antarctica",
+                "fact": "The first female station leader on Antarctica was Australian, Diana Patterson, head of Mawson Station in 1989. The first all-female over-wintering group is from Germany and spends the 1990-1991 winter at Georg von Neumayer, with the first German female station leader and medical doctor Monika Puskeppeleit.",
+                "url": "https://en.wikipedia.org/wiki/Women_in_Antarctica",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Storey",
+                "fact": "In Japan and Korea, \"Floor 1\" (1F) is usually assigned to the lowest floor that is at least partially above the ground level, so occasionally, 1F in these countries corresponds to the \"lower ground floor\" in the UK. 2F then corresponds to the \"ground floor\", 3F to the \"first floor\", and so on.",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Kohnen Station",
+                "fact": "The station is located at 75\u00b000'S, 00\u00b004'E, and 2892 m above sea level. It is located 757 km southeast of Neumayer-Station III, which lies on the Ekstrom Ice Shelf and provides logistics and administration for Kohnen-Station.",
+                "url": "https://en.wikipedia.org/wiki/Kohnen_Station",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Storey",
+                "fact": "The floor at ground or street level is called the \"ground floor\" (i.e. it has no number, the floor below it is called \"basement\", and the floor above it is called \"first\") in many places.",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Storey",
+                "fact": "This typically happens when both floors have street-level entrances, as is often the case for hillside buildings. In the UK, the lower of these floors would be called the \"lower ground floor\", while the upper would be called either the \"upper ground floor\" or simply the \"ground floor\".",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Storey",
+                "fact": "A few buildings in the United States and Canada have both a \"first floor\" (usually the main floor of the building) and a \"ground floor\" below it. This typically happens when both floors have street-level entrances, as is often the case for hillside buildings.",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Alfred Wegener Institute for Polar and Marine Research",
+                "fact": "Neumayer-Station III is located at 70\u00b040\u203208\u2033S 8\u00b016\u203202\u2033W, about 5 kilometres (3.1 mi) away from the previous station, Neumayer II which is now abandoned and covered by a thick ice cover.",
+                "url": "https://en.wikipedia.org/wiki/Alfred_Wegener_Institute_for_Polar_and_Marine_Research",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Storey",
+                "fact": "In Japan and Korea, \"Floor 1\" (1F) is usually assigned to the lowest floor that is at least partially above the ground level, so occasionally, 1F in these countries corresponds to the \"lower ground floor\" in the UK.",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Neumayer-Station III",
+                "fact": "The station replaces the Neumayer-Station II and the Georg-von-Neumayer-Station that preceded it. The expected lifespan of the station is 25 to 30 years and the entire project is estimated to cost \u20ac39 million.",
+                "url": "https://en.wikipedia.org/wiki/Neumayer-Station_III",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Women in Antarctica",
+                "fact": "Diana Patterson, the first female station leader on Antarctica, saw a change happening in 1995. She felt that many of the sexist views of the past had given way so that women were judged not by the fact that they were women, but \"by how well you did your job.",
+                "url": "https://en.wikipedia.org/wiki/Women_in_Antarctica",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Storey",
+                "fact": "In the UK, the lower of these floors would be called the \"lower ground floor\", while the upper would be called either the \"upper ground floor\" or simply the \"ground floor\".",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Executive Residence",
+                "fact": "Also unfinished was the West Sitting Hall, which was not intended to be a sitting hall at all but rather a \"Grand Staircase\" leading up from the Ground Floor.",
+                "url": "https://en.wikipedia.org/wiki/Executive_Residence",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Storey",
+                "fact": "In Italy the main floor of a home is usually above the ground level, and may be called the piano nobile (\"noble floor\").",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Storey",
+                "fact": "In countries that use this system, the floor at ground level is usually referred to by a special name, usually translating as \"ground floor\" or equivalent.",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Storey",
+                "fact": "Ground floor and first floor are both referred to as \"unang palapag\", followed by \"ikalawang palapag\" (second floor), \"ikatlong palapag\" (third floor) and so on.",
+                "url": "https://en.wikipedia.org/wiki/Storey",
+                "snippet_id": "d5bbc8cc0dba11ecb1e81171463288e9_8"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc91c0dba11ecb1e81171463288e9": {
+        "Q": "\"What color are both domes on the Imam Husayn Shrine and the  Imam Ali Shrine?\"",
+        "A": [
+            "\"Gold is the color used in both domes of the Imam Husayn Shrine and the Imam Ali Shrine.\""
+        ],
+        "topic": "plaza",
+        "split": "train",
+        "Qcate": "color",
+        "Guid": "d5bbc91c0dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30016037,
+                "title": "Imam Ali Shrine (1)",
+                "caption": "Imam Ali Shrine (1) Imam Ali Shrine",
+                "url": "https://commons.wikimedia.org/wiki/File:Imam_Ali_Shrine_%281%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Imam_Ali_Shrine_%281%29.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30090020,
+                "title": "Roza Imam Husain",
+                "caption": "Roza Imam Husain  Entry gate Roza Imam Husain,Karbala",
+                "url": "https://commons.wikimedia.org/wiki/File:Roza_Imam_Husain.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Roza_Imam_Husain.JPG/800px-Roza_Imam_Husain.JPG"
+            },
+            {
+                "image_id": 30360448,
+                "title": "Imam Ali Shrine, Najaf",
+                "caption": "Imam Ali Shrine, Najaf The Sanctuary of Imam Ali ibn Abi Talib in Najaf, Iraq.",
+                "url": "https://commons.wikimedia.org/wiki/File:Imam_Ali_Shrine%2C_Najaf.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Imam_Ali_Shrine%2C_Najaf.jpg"
+            },
+            {
+                "image_id": 30350047,
+                "title": "Shrine of Hazrat Ali or The blue mosque",
+                "caption": "Shrine of Hazrat Ali or The blue mosque",
+                "url": "https://commons.wikimedia.org/wiki/File:Shrine_of_Hazrat_Ali_or_The_blue_mosque.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Shrine_of_Hazrat_Ali_or_The_blue_mosque.jpg"
+            },
+            {
+                "image_id": 30123096,
+                "title": "Levha (panel) in honor of Imam 'Ali",
+                "caption": "Levha (panel) in honor of Imam 'Ali",
+                "url": "https://commons.wikimedia.org/wiki/File:Levha_(panel)_in_honor_of_Imam_'Ali.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Levha_%28panel%29_in_honor_of_Imam_%27Ali.jpg/800px-Levha_%28panel%29_in_honor_of_Imam_%27Ali.jpg"
+            },
+            {
+                "image_id": 30022400,
+                "title": "Najaf-Iraq 1932",
+                "caption": "Najaf-Iraq 1932 The Great Mosque of Najaf Iraq (Imama Ali shrine - for Persians and south Asians also known as Hazrat Ali by",
+                "url": "https://commons.wikimedia.org/wiki/File:Najaf-Iraq_1932.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Najaf-Iraq_1932.jpg/633px-Najaf-Iraq_1932.jpg"
+            },
+            {
+                "image_id": 30156684,
+                "title": "Horschelt. Surrender of Shamil. 1863",
+                "caption": "Horschelt. Surrender of Shamil. 1863 \"Captured Shamil before the commander-in-chief Prince Bariatinsky on 25 August 1859\"",
+                "url": "https://commons.wikimedia.org/wiki/File:Horschelt._Surrender_of_Shamil._1863.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horschelt._Surrender_of_Shamil._1863.jpg/800px-Horschelt._Surrender_of_Shamil._1863.jpg"
+            },
+            {
+                "image_id": 30136149,
+                "title": "Mekn\u00e8s - Bab Mansour",
+                "caption": "Mekn\u00e8s - Bab Mansour",
+                "url": "https://commons.wikimedia.org/wiki/File:Mekn%C3%A8s_-_Bab_Mansour.JPG",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/4/49/Mekn%C3%A8s_-_Bab_Mansour.JPG"
+            },
+            {
+                "image_id": 30332914,
+                "title": "The Holy Tomb of Imam Mahdi AS at Farah,Afghanistan",
+                "caption": "The Holy Tomb of Imam Mahdi AS at Farah,Afghanistan The Holy Tomb of Hazrat Syed Muhammad Jaunpuri Mahdi Mau'ood(AS)",
+                "url": "https://commons.wikimedia.org/wiki/File:The_Holy_Tomb_of_Imam_Mahdi_AS_at_Farah%2CAfghanistan.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_Holy_Tomb_of_Imam_Mahdi_AS_at_Farah%2CAfghanistan.jpg"
+            },
+            {
+                "image_id": 30086297,
+                "title": "The Driving Of The Last Spike",
+                "caption": "The Driving Of The Last Spike The Last Spike, painting depicts the ceremony of the driving of the \"Last Spike\" at Promontory Summit, UT, on May 10, 1869, joining the rails of the Central Pacific Railroad and the Union Pacific Railroad.",
+                "url": "https://commons.wikimedia.org/wiki/File:The_Driving_Of_The_Last_Spike.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Driving_Of_The_Last_Spike.jpg"
+            },
+            {
+                "image_id": 30003922,
+                "title": "Imam Hossein(993)-Karbobala",
+                "caption": "Imam Hossein(993)-Karbobala",
+                "url": "https://commons.wikimedia.org/wiki/File:Imam_Hossein%28993%29-Karbobala.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Imam_Hossein%28993%29-Karbobala.jpg/435px-Imam_Hossein%28993%29-Karbobala.jpg"
+            },
+            {
+                "image_id": 30236070,
+                "title": "Castillo de los Leones (AGN, s.f.)",
+                "caption": "Castillo de los Leones (AGN, s.f.)",
+                "url": "https://commons.wikimedia.org/wiki/File:Castillo_de_los_Leones_(AGN%2C_s.f.).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Castillo_de_los_Leones_(AGN%2C_s.f.).jpg"
+            },
+            {
+                "image_id": 30124222,
+                "title": "Purported tomb of Hazrat Ali (5778258849)",
+                "caption": "Purported tomb of Hazrat Ali (5778258849)",
+                "url": "https://commons.wikimedia.org/wiki/File:Purported_tomb_of_Hazrat_Ali_%285778258849%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Purported_tomb_of_Hazrat_Ali_%285778258849%29.jpg/800px-Purported_tomb_of_Hazrat_Ali_%285778258849%29.jpg"
+            },
+            {
+                "image_id": 30051084,
+                "title": "Fatima Masuma Qum Night",
+                "caption": "Fatima Masuma Qum Night Fatima Masumeh Shrine, Qum, Iran",
+                "url": "https://commons.wikimedia.org/wiki/File:Fatima_Masuma_Qum_Night.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fatima_Masuma_Qum_Night.jpg/481px-Fatima_Masuma_Qum_Night.jpg"
+            },
+            {
+                "image_id": 30373636,
+                "title": "Dak woontoren met arkeltorentje - 's-Heerenberg - 20105668 - RCE",
+                "caption": "Dak woontoren met arkeltorentje - 's-Heerenberg - 20105668 - RCE",
+                "url": "https://commons.wikimedia.org/wiki/File:Dak_woontoren_met_arkeltorentje_-_'s-Heerenberg_-_20105668_-_RCE.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dak_woontoren_met_arkeltorentje_-_'s-Heerenberg_-_20105668_-_RCE.jpg"
+            },
+            {
+                "image_id": 30077135,
+                "title": "Neue Moschee in Hurghada, direkt am Fischmarkt, Schiffswerft und Marina - panoramio",
+                "caption": "Neue Moschee in Hurghada, direkt am Fischmarkt, Schiffswerft und Marina - panoramio",
+                "url": "https://commons.wikimedia.org/wiki/File:Neue_Moschee_in_Hurghada%2C_direkt_am_Fischmarkt%2C_Schiffswerft_und_Marina_-_panoramio.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Neue_Moschee_in_Hurghada%2C_direkt_am_Fischmarkt%2C_Schiffswerft_und_Marina_-_panoramio.jpg/1280px-Neue_Moschee_in_Hurghada%2C_direkt_am_Fischmarkt%2C_Schiffswerft_und_Marina_-_panoramio.jpg"
+            },
+            {
+                "image_id": 30365036,
+                "title": "4036 - Milano - S. Maria della Vittoria - Interno - iconostasi - Foto Giovanni Dall'Orto 14-July-2007",
+                "caption": "4036 - Milano - S. Maria della Vittoria - Interno - iconostasi - Foto Giovanni Dall'Orto 14-July-2007 Milan, Italy: the iconostasis added by the Rumenian Orthodox community which uses today the 17th century Santa Maria della Vittoria sanctuary, next to the medieval \"Porta Ticinese\" city gate. Picture by Giovanni Dall'Orto, July 14 2007.",
+                "url": "https://commons.wikimedia.org/wiki/File:4036_-_Milano_-_S._Maria_della_Vittoria_-_Interno_-_iconostasi_-_Foto_Giovanni_Dall'Orto_14-July-2007.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/4036_-_Milano_-_S._Maria_della_Vittoria_-_Interno_-_iconostasi_-_Foto_Giovanni_Dall'Orto_14-July-2007.jpg/1200px-4036_-_Milano_-_S._Maria_della_Vittoria_-_Interno_-_iconostasi_-_Foto_Giovanni_Dall'Orto_14-July-2007.jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Holiest sites in Islam",
+                "fact": "In the Islamic tradition, In Shia Islam, after the first four sites, the Imam Ali Mosque in Najaf and the Imam Husayn Shrine in Karbala, Fatimah Masumeh Shrine in Qom are the holiest sites. For Sufi Muslims, after the first four sites, Mazar Ghous in Baghdad, Iraq, is the holiest site, followed by Data Darbar in Lahore, Pakistan.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Imam Husayn Shrine",
+                "fact": "The Imam Husayn Shrine or the Place of Imam Husayn ibn Ali (Arabic: \u0645\u064e\u0642\u064e\u0627\u0645 \u0671\u0644\u0652\u0625\u0650\u0645\u064e\u0627\u0645 \u0671\u0644\u0652\u062d\u064f\u0633\u064e\u064a\u0652\u0646 \u0671\u0628\u0652\u0646 \u0639\u064e\u0644\u0650\u064a\u0651\u200e, romanized: Maq\u0101m al-\u02beIm\u0101m al-\u1e24usayn ibn \u02bfAl\u012by) is the mosque and burial site of Husayn ibn Ali, the third Imam of Shia Islam, in the city of Karbala, Iraq.",
+                "url": "https://en.wikipedia.org/wiki/Imam_Husayn_Shrine",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Holiest sites in Islam",
+                "fact": "The two holiest sites of Mecca and Medina in Saudi Arabia are directly mentioned or referred to in the Quran. In the Islamic tradition, In Shia Islam, after the first four sites, the Imam Ali Mosque in Najaf and the Imam Husayn Shrine in Karbala, Fatimah Masumeh Shrine in Qom are the holiest sites.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Holiest sites in Shia Islam",
+                "fact": "It has also been narrated from Ja'far al-Sadiq, the Shia's sixth Imam, that the Imam Ali Mosque is the third of five holy places: Mecca, Medina, Imam Ali Mosque in Najaf, Imam Husayn Shrine in Karbala, and the shrine of Fatima Masumeh in Qom.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Shia_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Imam Ali Shrine",
+                "fact": "It has also been narrated from As-Sadiq that Im\u0101m 'Al\u012b Mosque is the third of five holy places: Mecca, Medina, Im\u0101m 'Al\u012b Mosque in Najaf, Imam Husayn Shrine in Karbal\u0101, and the Shrine of his daughter F\u0101\u1e6dimah in Qom.",
+                "url": "https://en.wikipedia.org/wiki/Imam_Ali_Shrine",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Holiest sites in Islam",
+                "fact": "In the Islamic tradition, In Shia Islam, after the first four sites, the Imam Ali Mosque in Najaf and the Imam Husayn Shrine in Karbala, Fatimah Masumeh Shrine in Qom are the holiest sites.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Holiest sites in Islam",
+                "fact": "After the four mosques accepted by all Muslims as holy sites, the Shia Muslims consider Imam Ali Masjid in Najaf as the holiest site of only Shia Muslims, followed by Imam Husayn Shrine in Karbala and then the Fatima Masumeh Shrine in Qom, Iran.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Hazrat Ali Mazar",
+                "fact": "In the 15th century, Timurid Sultan Husayn Bayqarah Mirza built a mosque over the tomb of Ali. It is by far the most important landmark in Mazar-i-Sharif and it is believed that the name of city (Noble Shrine, Grave of Hazrat-i-Ali Sharif) originates from this shrine.",
+                "url": "https://en.wikipedia.org/wiki/Hazrat_Ali_Mazar",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Murtadha al-Qazwini",
+                "fact": "His uncle authored al-Mawidha al-Hasina (The Good Instruction), a critique of Ali al-Wardi's Wuadh al-Salatin (The Sultans Preachers').By the 1950s, he was giving sermons in the Husayn shrine.",
+                "url": "https://en.wikipedia.org/wiki/Murtadha_al-Qazwini",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Holiest sites in Shia Islam",
+                "fact": "The Al-Abbas Shrine is located directly across from the Imam Husayn Shrine, and contains the tomb of Abbas ibn Ali, son of Ali and brother of Husayn.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Shia_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Abdul Husayn al-Killidar",
+                "fact": "At the age of 19, after his father, Ali passed away, he took on the responsibilities of the custodianship of the Imam Husayn shrine.",
+                "url": "https://en.wikipedia.org/wiki/Abdul_Husayn_al-Killidar",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Abdul Husayn al-Killidar",
+                "fact": "He grew up and studied in Karbala and was highly influenced by the literary atmosphere that surrounded him at the time. At the age of 19, after his father, Ali passed away, he took on the responsibilities of the custodianship of the Imam Husayn shrine.",
+                "url": "https://en.wikipedia.org/wiki/Abdul_Husayn_al-Killidar",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Holiest sites in Islam",
+                "fact": "Imam Husayn Shrine in Karbala, Iraq is the second most holiest site for Shia Muslims. It contains the tomb of Husayn ibn Ali.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Husayn ibn Ali",
+                "fact": "The Imam Husayn Shrine was later built over his grave in Karbala. In 850, the Abassid Caliph al-Mutawakkil destroyed his shrine in order to stop Shi'i pilgrimages.",
+                "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Husayn ibn Ali",
+                "fact": "According to the Shi'i belief that the body of an Imam is only buried by an Imam, Husayn ibn Ali's body was buried by his son, Ali Zayn al-Abidin.",
+                "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Holiest sites in Shia Islam",
+                "fact": "Imam Husayn Shrine in Karbala is the second holiest site especially for Shia Muslims. It contains the tomb of the Husayn, the third Shia Imam.",
+                "url": "https://en.wikipedia.org/wiki/Holiest_sites_in_Shia_Islam",
+                "snippet_id": "d5bbc91c0dba11ecb1e81171463288e9_8"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc9760dba11ecb1e81171463288e9": {
+        "Q": "\"Which street was paved with boards; Little Champlain Street, Quebec City, 1916 or Quebec City Rue Saint-Louis winter 2010?\"",
+        "A": [
+            "\"Little Champlain Street, Quebec City, 1916 was a street paved with boards.\""
+        ],
+        "topic": "plaza",
+        "split": "train",
+        "Qcate": "choose",
+        "Guid": "d5bbc9760dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30293104,
+                "title": "Quebec City Rue St-Louis 2010b",
+                "caption": "Quebec City Rue St-Louis 2010b Quebec City Rue Saint-Louis winter 2010 Upper Town. 57-63 St. Louis Street - a National Historic Site of Canada",
+                "url": "https://commons.wikimedia.org/wiki/File:Quebec_City_Rue_St-Louis_2010b.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Quebec_City_Rue_St-Louis_2010b.jpg/800px-Quebec_City_Rue_St-Louis_2010b.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30054882,
+                "title": "Rue du Petit-Champlain (2018)",
+                "caption": "Rue du Petit-Champlain (2018) Du Petit Champlain Street, Lower Town, Quebec City, Quebec, Canada.",
+                "url": "https://commons.wikimedia.org/wiki/File:Rue_du_Petit-Champlain_%282018%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rue_du_Petit-Champlain_%282018%29.jpg/800px-Rue_du_Petit-Champlain_%282018%29.jpg"
+            },
+            {
+                "image_id": 30245845,
+                "title": "Quebec City Wall",
+                "caption": "Quebec City Wall Quebec City -Ramparts of Quebec City. The Saint-Louis gate, seen from inside.",
+                "url": "https://commons.wikimedia.org/wiki/File:Quebec_City_Wall.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Quebec_City_Wall.jpg/800px-Quebec_City_Wall.jpg"
+            },
+            {
+                "image_id": 30179138,
+                "title": "St Roch Church exterior, Quebec City",
+                "caption": "St Roch Church exterior, Quebec City  Exterior view down Rue Saint Joseph, Quebec City. \u00c9glise Saint-Roch (Qu\u00e9bec).",
+                "url": "https://commons.wikimedia.org/wiki/File:St_Roch_Church_exterior%2C_Quebec_City.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St_Roch_Church_exterior%2C_Quebec_City.JPG/800px-St_Roch_Church_exterior%2C_Quebec_City.JPG"
+            },
+            {
+                "image_id": 30201014,
+                "title": "Champlain Quebec city",
+                "caption": "Champlain Quebec city Champlain Quebec city, Canada",
+                "url": "https://commons.wikimedia.org/wiki/File:Champlain_Quebec_city.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champlain_Quebec_city.jpg/425px-Champlain_Quebec_city.jpg"
+            },
+            {
+                "image_id": 30362879,
+                "title": "Qu\u00e9bec - Fortifications de Qu\u00e9bec - Porte Saint-Jean 4",
+                "caption": "Qu\u00e9bec - Fortifications de Qu\u00e9bec - Porte Saint-Jean 4 Saint-Jean gate, seen from outside, Quebec, Quebec, Canada",
+                "url": "https://commons.wikimedia.org/wiki/File:Qu%C3%A9bec_-_Fortifications_de_Qu%C3%A9bec_-_Porte_Saint-Jean_4.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Qu%C3%A9bec_-_Fortifications_de_Qu%C3%A9bec_-_Porte_Saint-Jean_4.jpg/1280px-Qu%C3%A9bec_-_Fortifications_de_Qu%C3%A9bec_-_Porte_Saint-Jean_4.jpg"
+            },
+            {
+                "image_id": 30386849,
+                "title": "Quebec City Winter Carnival, figure",
+                "caption": "Quebec City Winter Carnival, figure",
+                "url": "https://commons.wikimedia.org/wiki/File:Quebec_City_Winter_Carnival%2C_figure.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quebec_City_Winter_Carnival%2C_figure.jpg/400px-Quebec_City_Winter_Carnival%2C_figure.jpg"
+            },
+            {
+                "image_id": 30335393,
+                "title": "Rue Couillard, Quebec",
+                "caption": "Rue Couillard, Quebec",
+                "url": "https://commons.wikimedia.org/wiki/File:Rue_Couillard%2C_Quebec.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rue_Couillard%2C_Quebec.JPG/1200px-Rue_Couillard%2C_Quebec.JPG"
+            },
+            {
+                "image_id": 30266230,
+                "title": "Old Quebec City - panoramio",
+                "caption": "Old Quebec City - panoramio",
+                "url": "https://commons.wikimedia.org/wiki/File:Old_Quebec_City_-_panoramio.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Quebec_City_-_panoramio.jpg/800px-Old_Quebec_City_-_panoramio.jpg"
+            },
+            {
+                "image_id": 30267509,
+                "title": "\u00c9difice Price at night, Quebec city, Canada",
+                "caption": "\u00c9difice Price at night, Quebec city, Canada \u00c9difice Price, Quebec city, Canada",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg/800px-%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg"
+            },
+            {
+                "image_id": 30172603,
+                "title": "Gjirokaster, street 3",
+                "caption": "Gjirokaster, street 3 Street in Gjirokaster",
+                "url": "https://commons.wikimedia.org/wiki/File:Gjirokaster%2C_street_3.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gjirokaster%2C_street_3.jpg/800px-Gjirokaster%2C_street_3.jpg"
+            },
+            {
+                "image_id": 30051789,
+                "title": "Monmouth Street, Covent Garden 02",
+                "caption": "Monmouth Street, Covent Garden 02 Monmouth Street, Covent Garden",
+                "url": "https://commons.wikimedia.org/wiki/File:Monmouth_Street%2C_Covent_Garden_02.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Monmouth_Street%2C_Covent_Garden_02.jpg/1280px-Monmouth_Street%2C_Covent_Garden_02.jpg"
+            },
+            {
+                "image_id": 30313300,
+                "title": "Le ch\u00e2teau Frontenac Vieux-Qu\u00e9bec, ville de Qu\u00e9bec, Qu\u00e9bec",
+                "caption": "Le ch\u00e2teau Frontenac Vieux-Qu\u00e9bec, ville de Qu\u00e9bec, Qu\u00e9bec",
+                "url": "https://commons.wikimedia.org/wiki/File:Le_ch%C3%A2teau_Frontenac_Vieux-Qu%C3%A9bec%2C_ville_de_Qu%C3%A9bec%2C_Qu%C3%A9bec.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Le_ch%C3%A2teau_Frontenac_Vieux-Qu%C3%A9bec%2C_ville_de_Qu%C3%A9bec%2C_Qu%C3%A9bec.jpg/800px-Le_ch%C3%A2teau_Frontenac_Vieux-Qu%C3%A9bec%2C_ville_de_Qu%C3%A9bec%2C_Qu%C3%A9bec.jpg"
+            },
+            {
+                "image_id": 30272881,
+                "title": "F\u00eate d\u00e9 Nou\u00e9 2010 pathade Bat\u00e2le des Flieurs 03",
+                "caption": "F\u00eate d\u00e9 Nou\u00e9 2010 pathade Bat\u00e2le des Flieurs 03 Battle of Flowers parade, La Fete de Noue, 12 December 2010, Saint Helier, Jersey",
+                "url": "https://commons.wikimedia.org/wiki/File:F%C3%AAte_d%C3%A9_Nou%C3%A9_2010_pathade_Bat%C3%A2le_des_Flieurs_03.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/F%C3%AAte_d%C3%A9_Nou%C3%A9_2010_pathade_Bat%C3%A2le_des_Flieurs_03.jpg"
+            },
+            {
+                "image_id": 30245798,
+                "title": "Map of Quebec-fr.png",
+                "caption": "Map of Quebec-fr.png Map of Qu\u00e9bec",
+                "url": "https://commons.wikimedia.org/wiki/File:Map_of_Quebec-fr.png",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Map_of_Quebec-fr.png/569px-Map_of_Quebec-fr.png"
+            },
+            {
+                "image_id": 30002974,
+                "title": "Funiculaire du Vieux-Quebec 03",
+                "caption": "Funiculaire du Vieux-Quebec 03",
+                "url": "https://commons.wikimedia.org/wiki/File:Funiculaire_du_Vieux-Quebec_03.jpg",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/a/aa/Funiculaire_du_Vieux-Quebec_03.jpg"
+            },
+            {
+                "image_id": 30310732,
+                "title": "Ramparts of Quebec City (14744349476)",
+                "caption": "Ramparts of Quebec City (14744349476)",
+                "url": "https://commons.wikimedia.org/wiki/File:Ramparts_of_Quebec_City_(14744349476).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ramparts_of_Quebec_City_%2814744349476%29.jpg/800px-Ramparts_of_Quebec_City_%2814744349476%29.jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Old Quebec",
+                "fact": "Saint-Vallier Est Street, previously called Saint-Charles Street, the first paved road in Quebec. A funicular car allows for easy transportation up Cap Diamant connecting to Upper Town from the narrow Petit-Champlain road at the foot of the Cape to the top with a marvellous view of the city.",
+                "url": "https://en.wikipedia.org/wiki/Old_Quebec",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Quebec City",
+                "fact": "Until 2002, Quebec was a mostly urbanized city and its territory coterminous with today's borough of La Cit\u00e9-Limoilou. The Government of Quebec then mandated a municipal reorganization in the province, and many suburbs of the north shore of the Saint-Lawrence were merged into Quebec City, taking the form of boroughs.",
+                "url": "https://en.wikipedia.org/wiki/Quebec_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Quebec",
+                "fact": "The Saint Lawrence River has some of the world's largest sustaining inland Atlantic ports at Montreal (the province's largest city), Trois-Rivi\u00e8res, and Quebec City (the capital).",
+                "url": "https://en.wikipedia.org/wiki/Quebec",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Samuel de Champlain",
+                "fact": "Champlain spent the winter building Fort Saint-Louis on top of Cape Diamond. By mid-May, he learned that the fur trading monopoly had been handed over to another company led by the Caen brothers.",
+                "url": "https://en.wikipedia.org/wiki/Samuel_de_Champlain",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Quebec City",
+                "fact": "Quebec City ( (listen) or ; French: Ville de Qu\u00e9bec), officially Qu\u00e9bec ([keb\u025bk] (listen)), is the capital city of the Canadian province of Quebec.",
+                "url": "https://en.wikipedia.org/wiki/Quebec_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Quebec City",
+                "fact": "Informally, however, the accent is usually omitted in common usage, so the unofficial form \"Quebec City\" is used to distinguish the city from the province.",
+                "url": "https://en.wikipedia.org/wiki/Quebec_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Quebec City",
+                "fact": "The Special Olympics Canada National Winter Games was held in the city from 26 February to 1 March 2008. Quebec City co-hosted with Halifax, Nova Scotia, the 2008 IIHF World Championship.",
+                "url": "https://en.wikipedia.org/wiki/Quebec_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Quebec City",
+                "fact": "The town distinguished itself by its monumental architecture, fortifications, and affluent homes of masonry and shacks in the suburbs of Saint-Jean and Saint-Roch. Despite its urbanity and its status as capital, Quebec City remained a small colonial city with close ties to its rural surroundings.",
+                "url": "https://en.wikipedia.org/wiki/Quebec_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "Salt Lake City",
+                "fact": "US-89 enters the city from the northwest, becomes 900 West Street through the northern part of the city, and exits Salt Lake City as State Street (100 East).",
+                "url": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Salt Lake City",
+                "fact": "Usually both can be used as an address. US-89 enters the city from the northwest, becomes 900 West Street through the northern part of the city, and exits Salt Lake City as State Street (100 East).",
+                "url": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "City of London",
+                "fact": "After the fire of 1666, a number of plans were drawn up to remodel the City and its street pattern into a renaissance-style city with planned urban blocks, squares and boulevards. These plans were almost entirely not taken up, and the medieval street pattern re-emerged almost intact.",
+                "url": "https://en.wikipedia.org/wiki/City_of_London",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Quebec County, Quebec",
+                "fact": "excepting the City of Quebec and the parishes of Notre-Dame-de-Quebec and Saint-Roch-de-Qu\u00e9bec. In 1896, in addition to the unorganized territory, the County comprised the following entities:",
+                "url": "https://en.wikipedia.org/wiki/Quebec_County,_Quebec",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Louis XIII",
+                "fact": "In foreign matters, Louis organised the development and administration of New France, expanding its settlements westward along the Saint Lawrence River from Quebec City to Montreal.",
+                "url": "https://en.wikipedia.org/wiki/Louis_XIII",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Samuel de Champlain",
+                "fact": "Champlain returned to New France in 1620 and was to spend the rest of his life focusing on administration of the territory rather than exploration. Champlain spent the winter building Fort Saint-Louis on top of Cape Diamond.",
+                "url": "https://en.wikipedia.org/wiki/Samuel_de_Champlain",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Quebec City",
+                "fact": "Quebec City's largest park is the Parc Chauveau (fr), which is crossed by the suburban section of the city-wide Saint-Charles River and is thus also part of the 31 kilometres (19 mi) long Saint-Charles River's linear park.",
+                "url": "https://en.wikipedia.org/wiki/Quebec_City",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Louis XIII",
+                "fact": "He commissioned the painters Nicolas Poussin and Philippe de Champaigne to decorate the Louvre Palace. In foreign matters, Louis organised the development and administration of New France, expanding its settlements westward along the Saint Lawrence River from Quebec City to Montreal.",
+                "url": "https://en.wikipedia.org/wiki/Louis_XIII",
+                "snippet_id": "d5bbc9760dba11ecb1e81171463288e9_13"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbc9bc0dba11ecb1e81171463288e9": {
+        "Q": "\"What architectural feature do both the Jameh Mosque of Amol and the Mausoleum of Il-khan \u00d6ljeit\u00fc both have on top?\"",
+        "A": [
+            "\"Both the Jameh Mosque of Amol and the Mausoleum of Il-khan \u00d6ljeit\u00fc both have domes on top.\""
+        ],
+        "topic": "plaza",
+        "split": "train",
+        "Qcate": "Others",
+        "Guid": "d5bbc9bc0dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30129836,
+                "title": "Dome of Amir Chakhmaq Mosque, Yazd, Iran",
+                "caption": "Dome of Amir Chakhmaq Mosque, Yazd, Iran The dome of Amir Chakhmaq Mosque, part of Amir Chakhmaq Complex in Yazd, Iran (seen from roof)",
+                "url": "https://commons.wikimedia.org/wiki/File:Dome_of_Amir_Chakhmaq_Mosque%2C_Yazd%2C_Iran.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dome_of_Amir_Chakhmaq_Mosque%2C_Yazd%2C_Iran.jpg/800px-Dome_of_Amir_Chakhmaq_Mosque%2C_Yazd%2C_Iran.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30100461,
+                "title": "Guri Amir (Samarkand)-03 Mausoleum building.",
+                "caption": "Guri Amir (Samarkand)-03 Mausoleum building.",
+                "url": "https://commons.wikimedia.org/wiki/File:Guri_Amir_(Samarkand)-03_Mausoleum_building..jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Guri_Amir_(Samarkand)-03_Mausoleum_building..jpg"
+            },
+            {
+                "image_id": 30285232,
+                "title": "Samarkand Bibi-Khanum Mausoleum",
+                "caption": "Samarkand Bibi-Khanum Mausoleum  Mausoleum Bibi Khanum",
+                "url": "https://commons.wikimedia.org/wiki/File:Samarkand_Bibi-Khanum_Mausoleum.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Samarkand_Bibi-Khanum_Mausoleum.JPG"
+            },
+            {
+                "image_id": 30306521,
+                "title": "Jameh Mosque of Isfahan - Western Iwan 01",
+                "caption": "Jameh Mosque of Isfahan - Western Iwan 01 Western Iwan of Jameh Mosque of Isfahan, Iran",
+                "url": "https://commons.wikimedia.org/wiki/File:Jameh_Mosque_of_Isfahan_-_Western_Iwan_01.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jameh_Mosque_of_Isfahan_-_Western_Iwan_01.jpg/800px-Jameh_Mosque_of_Isfahan_-_Western_Iwan_01.jpg"
+            },
+            {
+                "image_id": 30128831,
+                "title": "Jameh Mosque of Isfahan 01",
+                "caption": "Jameh Mosque of Isfahan 01 Jameh Mosque of Isfahan, Iran",
+                "url": "https://commons.wikimedia.org/wiki/File:Jameh_Mosque_of_Isfahan_01.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Jameh_Mosque_of_Isfahan_01.jpg/800px-Jameh_Mosque_of_Isfahan_01.jpg"
+            },
+            {
+                "image_id": 30153896,
+                "title": "Blue Dome in Natanz",
+                "caption": "Blue Dome in Natanz  Mausoleum of Mir Sayed Vaghef in Natanz",
+                "url": "https://commons.wikimedia.org/wiki/File:Blue_Dome_in_Natanz.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Blue_Dome_in_Natanz.JPG/800px-Blue_Dome_in_Natanz.JPG"
+            },
+            {
+                "image_id": 30259876,
+                "title": "Jameh Mosque (Friday Mosque), Isfahan (5113659311)",
+                "caption": "Jameh Mosque (Friday Mosque), Isfahan (5113659311)",
+                "url": "https://commons.wikimedia.org/wiki/File:Jameh_Mosque_%28Friday_Mosque%29%2C_Isfahan_%285113659311%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jameh_Mosque_%28Friday_Mosque%29%2C_Isfahan_%285113659311%29.jpg/800px-Jameh_Mosque_%28Friday_Mosque%29%2C_Isfahan_%285113659311%29.jpg"
+            },
+            {
+                "image_id": 30230450,
+                "title": "Isfahan, Masjed-e Shah 11",
+                "caption": "Isfahan, Masjed-e Shah 11 Masjed-e Shah, Isfahan",
+                "url": "https://commons.wikimedia.org/wiki/File:Isfahan%2C_Masjed-e_Shah_11.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Isfahan%2C_Masjed-e_Shah_11.jpg/1200px-Isfahan%2C_Masjed-e_Shah_11.jpg"
+            },
+            {
+                "image_id": 30097437,
+                "title": "South iwan, Jameh Mosque (Friday Mosque), Isfahan, Iran (1267224597)",
+                "caption": "South iwan, Jameh Mosque (Friday Mosque), Isfahan, Iran (1267224597)",
+                "url": "https://commons.wikimedia.org/wiki/File:South_iwan%2C_Jameh_Mosque_%28Friday_Mosque%29%2C_Isfahan%2C_Iran_%281267224597%29.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/South_iwan%2C_Jameh_Mosque_%28Friday_Mosque%29%2C_Isfahan%2C_Iran_%281267224597%29.jpg/470px-South_iwan%2C_Jameh_Mosque_%28Friday_Mosque%29%2C_Isfahan%2C_Iran_%281267224597%29.jpg"
+            },
+            {
+                "image_id": 30343435,
+                "title": "Hamedan Jameh mosque",
+                "caption": "Hamedan Jameh mosque",
+                "url": "https://commons.wikimedia.org/wiki/File:Hamedan_Jameh_mosque.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hamedan_Jameh_mosque.jpg/200px-Hamedan_Jameh_mosque.jpg"
+            },
+            {
+                "image_id": 30188168,
+                "title": "Nasir-ol-Molk Mosque, Shiraz, Iran (1249315683)",
+                "caption": "Nasir-ol-Molk Mosque, Shiraz, Iran (1249315683)",
+                "url": "https://commons.wikimedia.org/wiki/File:Nasir-ol-Molk_Mosque%2C_Shiraz%2C_Iran_(1249315683).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nasir-ol-Molk_Mosque%2C_Shiraz%2C_Iran_%281249315683%29.jpg/800px-Nasir-ol-Molk_Mosque%2C_Shiraz%2C_Iran_%281249315683%29.jpg"
+            },
+            {
+                "image_id": 30038459,
+                "title": "W\u00fc MarienbergMKircheBrTemp",
+                "caption": "W\u00fc MarienbergMKircheBrTemp Wurzburg, Fortress \"Marienberg\", Church \"Marienkirche\" with Fountain House",
+                "url": "https://commons.wikimedia.org/wiki/File:W%C3%BC_MarienbergMKircheBrTemp.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/W%C3%BC_MarienbergMKircheBrTemp.jpg/612px-W%C3%BC_MarienbergMKircheBrTemp.jpg"
+            },
+            {
+                "image_id": 30003086,
+                "title": "Front entrance of Jame Mosque of Yazd",
+                "caption": "Front entrance of Jame Mosque of Yazd  Main entrance of theJame MosqueofYazdin Iran",
+                "url": "https://commons.wikimedia.org/wiki/File:Front_entrance_of_Jame_Mosque_of_Yazd.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Front_entrance_of_Jame_Mosque_of_Yazd.JPG/800px-Front_entrance_of_Jame_Mosque_of_Yazd.JPG"
+            },
+            {
+                "image_id": 30289022,
+                "title": "Holy Shrine, Mashhad, Razavi Khorasan Province, Iran - panoramio (3)",
+                "caption": "Holy Shrine, Mashhad, Razavi Khorasan Province, Iran - panoramio (3)",
+                "url": "https://commons.wikimedia.org/wiki/File:Holy_Shrine%2C_Mashhad%2C_Razavi_Khorasan_Province%2C_Iran_-_panoramio_(3).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Holy_Shrine%2C_Mashhad%2C_Razavi_Khorasan_Province%2C_Iran_-_panoramio_(3).jpg"
+            },
+            {
+                "image_id": 30008178,
+                "title": "Khaneh mashruteh tabriz",
+                "caption": "Khaneh mashruteh tabriz Khaneh Mashruteh (House of the Consitution) \u2014 museum inTabriz, Iran.",
+                "url": "https://commons.wikimedia.org/wiki/File:Khaneh_mashruteh_tabriz.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Khaneh_mashruteh_tabriz.jpg/450px-Khaneh_mashruteh_tabriz.jpg"
+            },
+            {
+                "image_id": 30074081,
+                "title": "Uni-Bastions University Geneva",
+                "caption": "Uni-Bastions University Geneva",
+                "url": "https://commons.wikimedia.org/wiki/File:Uni-Bastions_University_Geneva.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Uni-Bastions_University_Geneva.jpg"
+            },
+            {
+                "image_id": 30016884,
+                "title": "Registan, Samarkand, Uzbekistan",
+                "caption": "Registan, Samarkand, Uzbekistan  Mosque",
+                "url": "https://commons.wikimedia.org/wiki/File:Registan%2C_Samarkand%2C_Uzbekistan.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Registan%2C_Samarkand%2C_Uzbekistan.JPG/800px-Registan%2C_Samarkand%2C_Uzbekistan.JPG"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Iranian architecture",
+                "fact": "The Azari style (from the late 13th century to the appearance of the Safavid Dynasty in the 16th century), e.g. Soltaniyeh, Arg-i Alishah, Jameh Mosque of Varamin, Goharshad Mosque, Bibi Khanum mosque in Samarqand, tomb of Abdas-Samad, Gur-e Amir, Jameh mosque of Yazd",
+                "url": "https://en.wikipedia.org/wiki/Iranian_architecture",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Muzaffarids (Iran)",
+                "fact": "Sharaf al-Din's son, Mubariz al-Din Muhammad, was brought up at the Il-Khan's court but returned to Maibud upon the death of the Il-Khan \u00d6ljeit\u00fc. In around 1319 he overthrew the atabeg of Yazd and was subsequently recognized as governor of the city by the central Il-Khan government.",
+                "url": "https://en.wikipedia.org/wiki/Muzaffarids_(Iran)",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Jameh Mosque of Qazvin",
+                "fact": "Jameh Mosque of Qazvin (Persian: \u0645\u0633\u062c\u062f \u062c\u0627\u0645\u0639 \u0639\u062a\u064a\u0642 \u0642\u0632\u0648\u06cc\u0646\u200e \u2013 Masjid-e-Jameh Atiq Qazvin) is one of the oldest mosques in Iran, and is the grand, congregational mosque (Jameh Mosque) of Qazvin, in Qazvin Province, Iran.",
+                "url": "https://en.wikipedia.org/wiki/Jameh_Mosque_of_Qazvin",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Dome of Soltaniyeh",
+                "fact": "The Dome of Soltaniyeh in Soltaniyeh city, Zanjan Province, Iran, traditionally so called, is a complex of ruins centering on the Mausoleum of the Mongol ruler Il-khan \u00d6ljeit\u00fc, also known as Muhammad Khodabandeh.",
+                "url": "https://en.wikipedia.org/wiki/Dome_of_Soltaniyeh",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Jameh Mosque of Golpayegan",
+                "fact": "A wall opposite the shabestan of Umayyad Mosque in Damascus (1109 a.d.)The construction date of Jameh mosque of Golpayegan and the other mosques in Saveh, Qazvin, Turkey and Damascus show that in a short period of time from 1109 until 1117 several mosques have been built in the Seljukid era in the regions very far from each other.",
+                "url": "https://en.wikipedia.org/wiki/Jameh_Mosque_of_Golpayegan",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Islamic architecture",
+                "fact": "The \"non-radial rib vault\", an architectural form of ribbed vaults with a superimposed spherical dome, is the characteristic architectural vault form of the Islamic East. From its beginnings in the Jameh Mosque of Isfahan, this form of vault was used in a sequence of important buildings up to the period of Safavid architecture.",
+                "url": "https://en.wikipedia.org/wiki/Islamic_architecture",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "George VI of Georgia",
+                "fact": "Son of King David VIII, he was appointed as King of Georgia (actually, only the eastern part of the country) by the Il-khan \u00d6ljeit\u00fc upon the death of his father in 1311.",
+                "url": "https://en.wikipedia.org/wiki/George_VI_of_Georgia",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Muzaffarids (Iran)",
+                "fact": "Sharaf al-Din's son, Mubariz al-Din Muhammad, was brought up at the Il-Khan's court but returned to Maibud upon the death of the Il-Khan \u00d6ljeit\u00fc.",
+                "url": "https://en.wikipedia.org/wiki/Muzaffarids_(Iran)",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "George VI of Georgia",
+                "fact": "Son of King David VIII, he was appointed as King of Georgia (actually, only the eastern part of the country) by the Il-khan \u00d6ljeit\u00fc upon the death of his father in 1311. He reigned under the regency of his uncle Giorgi V and died underage in 1313.",
+                "url": "https://en.wikipedia.org/wiki/George_VI_of_Georgia",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "Islamic architecture",
+                "fact": "Similar domes are also seen in the mosque building of the Aljafer\u00eda of Zaragoza. The architectural form of the ribbed dome was further developed in the Maghreb: the central dome of the Great Mosque of Tlemcen, a masterpiece of the Almoravids founded in 1082, has twelve slender ribs, the shell between the ribs is filled with filigree stucco work.",
+                "url": "https://en.wikipedia.org/wiki/Islamic_architecture",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Islamic architecture",
+                "fact": "When the Ottomans captured the city from the Byzantines, they converted the basilica to a mosque and incorporated Byzantine architectural elements into their own work (e.g. domes). The Hagia Sophia also served as a model for many Ottoman mosques such as the \u015eehzade Mosque, the Suleiman Mosque, and the R\u00fcstem Pasha Mosque.",
+                "url": "https://en.wikipedia.org/wiki/Islamic_architecture",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Medina",
+                "fact": "It is Sunnah to perform prayer at the Quba'a Mosque. According to a hadith, Sahl ibn Hunayf reported that Muhammad said, \"Whoever purifies himself in his house, then comes to the mosque of Quba' and prays in it, he will have a reward like the Umrah pilgrimage.\"",
+                "url": "https://en.wikipedia.org/wiki/Medina",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Architectural photography",
+                "fact": "Either electronic flash \"strobes\" or incandescent \"hot lights\" are generally used. A feature of architectural photography is that the principal subjects almost always remains stationary.",
+                "url": "https://en.wikipedia.org/wiki/Architectural_photography",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Shah Mosque (Isfahan)",
+                "fact": "The crown jewel in this project was the Masjed i Shah, which would replace the much older Jameh Mosque in conducting the Friday prayers.",
+                "url": "https://en.wikipedia.org/wiki/Shah_Mosque_(Isfahan)",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Golden Horde",
+                "fact": "Around 1262 Berke broke with the Il-Khan Hulagu Khan. This led to several wars on the west side of the Caspian which the Horde usually lost.",
+                "url": "https://en.wikipedia.org/wiki/Golden_Horde",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Amol",
+                "fact": "During this period, Amol was chosen as the capital of Iran and until 1090. He also the first seminary by Hasan al-Utrush built in Amol, which was later named Imam Hassan Askari Mosque.",
+                "url": "https://en.wikipedia.org/wiki/Amol",
+                "snippet_id": "d5bbc9bc0dba11ecb1e81171463288e9_10"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbca160dba11ecb1e81171463288e9": {
+        "Q": "\"What shapes are painted down the center of Salou Boulevard?\"",
+        "A": [
+            "\"Blue footprints are painted down the center of Salou Boulevard.\""
+        ],
+        "topic": "streets",
+        "split": "val",
+        "Qcate": "shape",
+        "Guid": "d5bbca160dba11ecb1e81171463288e9",
+        "img_posFacts": [],
+        "img_negFacts": [
+            {
+                "image_id": 30200751,
+                "title": "Monumento a Jaime I en Salou",
+                "caption": "Monumento a Jaime I en Salou",
+                "url": "https://commons.wikimedia.org/wiki/File:Monumento_a_Jaime_I_en_Salou.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Monumento_a_Jaime_I_en_Salou.jpg"
+            },
+            {
+                "image_id": 30212970,
+                "title": "43840 Salou, Tarragona, Spain - panoramio (11)",
+                "caption": "43840 Salou, Tarragona, Spain - panoramio (11)",
+                "url": "https://commons.wikimedia.org/wiki/File:43840_Salou%2C_Tarragona%2C_Spain_-_panoramio_(11).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/43840_Salou%2C_Tarragona%2C_Spain_-_panoramio_%2811%29.jpg/800px-43840_Salou%2C_Tarragona%2C_Spain_-_panoramio_%2811%29.jpg"
+            },
+            {
+                "image_id": 30032339,
+                "title": "SeaSalou",
+                "caption": "SeaSalou sea salou",
+                "url": "https://commons.wikimedia.org/wiki/File:SeaSalou.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SeaSalou.jpg/800px-SeaSalou.jpg"
+            },
+            {
+                "image_id": 30045611,
+                "title": "Pacha Eivissa, July 2006",
+                "caption": "Pacha Eivissa, July 2006",
+                "url": "https://commons.wikimedia.org/wiki/File:Pacha_Eivissa%2C_July_2006.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pacha_Eivissa%2C_July_2006.jpg/800px-Pacha_Eivissa%2C_July_2006.jpg"
+            },
+            {
+                "image_id": 30378267,
+                "title": "Feuertal 2013 Subway to Sally 088",
+                "caption": "Feuertal 2013 Subway to Sally 088",
+                "url": "https://commons.wikimedia.org/wiki/File:Feuertal_2013_Subway_to_Sally_088.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Feuertal_2013_Subway_to_Sally_088.JPG/510px-Feuertal_2013_Subway_to_Sally_088.JPG"
+            },
+            {
+                "image_id": 30078767,
+                "title": "Cambrils007",
+                "caption": "Cambrils007",
+                "url": "https://commons.wikimedia.org/wiki/File:Cambrils007.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cambrils007.jpg/1280px-Cambrils007.jpg"
+            },
+            {
+                "image_id": 30385613,
+                "title": "Revolution Monument San Salvador",
+                "caption": "Revolution Monument San Salvador",
+                "url": "https://commons.wikimedia.org/wiki/File:Revolution_Monument_San_Salvador.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Revolution_Monument_San_Salvador.JPG"
+            },
+            {
+                "image_id": 30104222,
+                "title": "Charli XCX performing in 2014",
+                "caption": "Charli XCX performing in 2014  Charli XCX performing in 2014",
+                "url": "https://commons.wikimedia.org/wiki/File:Charli_XCX_performing_in_2014.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Charli_XCX_performing_in_2014.JPG"
+            },
+            {
+                "image_id": 30158402,
+                "title": "Fuego en el Centro de Medell\u00edn",
+                "caption": "Fuego en el Centro de Medell\u00edn",
+                "url": "https://commons.wikimedia.org/wiki/File:Fuego_en_el_Centro_de_Medell%C3%ADn.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fuego_en_el_Centro_de_Medell%C3%ADn.jpg/400px-Fuego_en_el_Centro_de_Medell%C3%ADn.jpg"
+            },
+            {
+                "image_id": 30192365,
+                "title": "Waianapanapa opposite shore",
+                "caption": "Waianapanapa opposite shore Waianapanapa, in Maui, HI. Black sand beach.",
+                "url": "https://commons.wikimedia.org/wiki/File:Waianapanapa_opposite_shore.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Waianapanapa_opposite_shore.jpg/800px-Waianapanapa_opposite_shore.jpg"
+            },
+            {
+                "image_id": 30074455,
+                "title": "Movie world superman escape zz",
+                "caption": "Movie world superman escape zz  Movie World Escape",
+                "url": "https://commons.wikimedia.org/wiki/File:Movie_world_superman_escape_zz.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Movie_world_superman_escape_zz.JPG/1024px-Movie_world_superman_escape_zz.JPG"
+            },
+            {
+                "image_id": 30052711,
+                "title": "Porto Covo February 2009-2",
+                "caption": "Porto Covo February 2009-2 Tidepool in Porto Covo, west coast of Portugal.",
+                "url": "https://commons.wikimedia.org/wiki/File:Porto_Covo_February_2009-2.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Porto_Covo_February_2009-2.jpg/269px-Porto_Covo_February_2009-2.jpg"
+            },
+            {
+                "image_id": 30156921,
+                "title": "Campa\u00f1a Ant\u00e1rtica Argentina 2017 04",
+                "caption": "Campa\u00f1a Ant\u00e1rtica Argentina 2017 04",
+                "url": "https://commons.wikimedia.org/wiki/File:Campa%C3%B1a_Ant%C3%A1rtica_Argentina_2017_04.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Campa%C3%B1a_Ant%C3%A1rtica_Argentina_2017_04.jpg/1024px-Campa%C3%B1a_Ant%C3%A1rtica_Argentina_2017_04.jpg"
+            },
+            {
+                "image_id": 30055624,
+                "title": "Badalona-01",
+                "caption": "Badalona-01",
+                "url": "https://commons.wikimedia.org/wiki/File:Badalona-01.jpg",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/9/9c/Badalona-01.jpg"
+            },
+            {
+                "image_id": 30033947,
+                "title": "Dirt road in Karpaz, Northern Cyprus 05",
+                "caption": "Dirt road in Karpaz, Northern Cyprus 05 Dirt road in Karpaz, Northern Cyprus",
+                "url": "https://commons.wikimedia.org/wiki/File:Dirt_road_in_Karpaz%2C_Northern_Cyprus_05.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dirt_road_in_Karpaz%2C_Northern_Cyprus_05.jpg/1200px-Dirt_road_in_Karpaz%2C_Northern_Cyprus_05.jpg"
+            },
+            {
+                "image_id": 30373032,
+                "title": "Port aventura (7992073128)",
+                "caption": "Port aventura (7992073128)",
+                "url": "https://commons.wikimedia.org/wiki/File:Port_aventura_(7992073128).jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Port_aventura_%287992073128%29.jpg/800px-Port_aventura_%287992073128%29.jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Thomas Berge",
+                "fact": "They took turns in singing each other's repertoire. During a vacation in Salou, Spain in the same year he became infected with the \"Mexican Flu\".",
+                "url": "https://en.wikipedia.org/wiki/Thomas_Berge",
+                "snippet_id": "d5bbca160dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Mohamed Atta",
+                "fact": "He said he wanted to visit the World Trade Center and asked Bryant about the security there. He mentioned Al Qaeda and said the organization \"could use memberships from Americans\".",
+                "url": "https://en.wikipedia.org/wiki/Mohamed_Atta",
+                "snippet_id": "d5bbca160dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Thomas Berge",
+                "fact": "In 2010 it was announced in RTL Boulevard that Thomas Berge had checked in at a rehabilitation clinic. He has now addressed this issue.",
+                "url": "https://en.wikipedia.org/wiki/Thomas_Berge",
+                "snippet_id": "d5bbca160dba11ecb1e81171463288e9_2"
+            },
+            {
+                "title": "Mohamed Atta",
+                "fact": "He asked about the Pentagon and the White House. He said he wanted to visit the World Trade Center and asked Bryant about the security there.",
+                "url": "https://en.wikipedia.org/wiki/Mohamed_Atta",
+                "snippet_id": "d5bbca160dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Thomas Berge",
+                "fact": "Thomas Berge lives in Losser, province Overijssel. In 2010 it was announced in RTL Boulevard that Thomas Berge had checked in at a rehabilitation clinic.",
+                "url": "https://en.wikipedia.org/wiki/Thomas_Berge",
+                "snippet_id": "d5bbca160dba11ecb1e81171463288e9_4"
+            }
+        ],
+        "txt_posFacts": []
+    },
+    "d5bbca840dba11ecb1e81171463288e9": {
+        "Q": "\"Does a Estonian 6-stringed kannel and an Irish Bouzouki have the same number of strings?\"",
+        "A": [
+            "\"An Estonian 6-stringed kannel and an Irish Bouzouki do not have the same number of strings.\""
+        ],
+        "topic": "instruments",
+        "split": "train",
+        "Qcate": "YesNo",
+        "Guid": "d5bbca840dba11ecb1e81171463288e9",
+        "img_posFacts": [
+            {
+                "image_id": 30263062,
+                "title": "V\u00e4ikekannel",
+                "caption": "V\u00e4ikekannel Estonian 6-stringed kannel made by Rait Pihlap in 2008.",
+                "url": "https://commons.wikimedia.org/wiki/File:V%C3%A4ikekannel.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/V%C3%A4ikekannel.jpg/800px-V%C3%A4ikekannel.jpg"
+            }
+        ],
+        "img_negFacts": [
+            {
+                "image_id": 30304057,
+                "title": "BouzoukiFront",
+                "caption": "BouzoukiFront",
+                "url": "https://commons.wikimedia.org/wiki/File:BouzoukiFront.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/BouzoukiFront.jpg/800px-BouzoukiFront.jpg"
+            },
+            {
+                "image_id": 30076843,
+                "title": "Bouzouki tetrachordo",
+                "caption": "Bouzouki tetrachordo",
+                "url": "https://commons.wikimedia.org/wiki/File:Bouzouki_tetrachordo.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bouzouki_tetrachordo.jpg/800px-Bouzouki_tetrachordo.jpg"
+            },
+            {
+                "image_id": 30055944,
+                "title": "First Irish Bouzouki Lunny Abnett.png",
+                "caption": "First Irish Bouzouki Lunny Abnett.png First Irish Bouzouki designed and commissioned by Donal Lunny and created by Peter Abnett",
+                "url": "https://commons.wikimedia.org/wiki/File:First_Irish_Bouzouki_Lunny_Abnett.png",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/First_Irish_Bouzouki_Lunny_Abnett.png"
+            },
+            {
+                "image_id": 30379200,
+                "title": "\"Barcelli\"",
+                "caption": "\"Barcelli\"",
+                "url": "https://commons.wikimedia.org/wiki/File:%22Barcelli%22.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%22Barcelli%22.jpg/450px-%22Barcelli%22.jpg"
+            },
+            {
+                "image_id": 30102589,
+                "title": "Plucked string instruments (2) Mandolin, Lute, Portuguese string ensemble, Portuguese guitar - Soinuenea",
+                "caption": "Plucked string instruments (2) Mandolin, Lute, Portuguese string ensemble, Portuguese guitar - Soinuenea",
+                "url": "https://commons.wikimedia.org/wiki/File:Plucked_string_instruments_%282%29_Mandolin%2C_Lute%2C_Portuguese_string_ensemble%2C_Portuguese_guitar_-_Soinuenea.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Plucked_string_instruments_%282%29_Mandolin%2C_Lute%2C_Portuguese_string_ensemble%2C_Portuguese_guitar_-_Soinuenea.jpg/418px-Plucked_string_instruments_%282%29_Mandolin%2C_Lute%2C_Portuguese_string_ensemble%2C_Portuguese_guitar_-_Soinuenea.jpg"
+            },
+            {
+                "image_id": 30336284,
+                "title": "Skeleton-Key-Silhouette.svg",
+                "caption": "Skeleton-Key-Silhouette.svg",
+                "url": "https://commons.wikimedia.org/wiki/File:Skeleton-Key-Silhouette.svg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Skeleton-Key-Silhouette.svg/320px-Skeleton-Key-Silhouette.svg.png"
+            },
+            {
+                "image_id": 30131106,
+                "title": "Stringed instruments - Musical Instrument Museum, Brussels - IMG 3985",
+                "caption": "Stringed instruments - Musical Instrument Museum, Brussels - IMG 3985",
+                "url": "https://commons.wikimedia.org/wiki/File:Stringed_instruments_-_Musical_Instrument_Museum%2C_Brussels_-_IMG_3985.JPG",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Stringed_instruments_-_Musical_Instrument_Museum%2C_Brussels_-_IMG_3985.JPG/450px-Stringed_instruments_-_Musical_Instrument_Museum%2C_Brussels_-_IMG_3985.JPG"
+            },
+            {
+                "image_id": 30259187,
+                "title": "Kora DSC 0355",
+                "caption": "Kora DSC 0355  The kora is a 21-string bridge-harp used extensively in West Africa",
+                "url": "https://commons.wikimedia.org/wiki/File:Kora_DSC_0355.JPG",
+                "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/b/b7/Kora_DSC_0355.JPG"
+            },
+            {
+                "image_id": 30030007,
+                "title": "Dangubica",
+                "caption": "Dangubica Dangubica or Samica, a stringed instrument from Croatia and Serbia (bridge missing.)",
+                "url": "https://commons.wikimedia.org/wiki/File:Dangubica.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dangubica.jpg/278px-Dangubica.jpg"
+            },
+            {
+                "image_id": 30092329,
+                "title": "X5429 - svenskluta - Alfred Brock - 1930 - foto Mikael Bodner",
+                "caption": "X5429 - svenskluta - Alfred Brock - 1930 - foto Mikael Bodner",
+                "url": "https://commons.wikimedia.org/wiki/File:X5429_-_svenskluta_-_Alfred_Brock_-_1930_-_foto_Mikael_Bodner.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/X5429_-_svenskluta_-_Alfred_Brock_-_1930_-_foto_Mikael_Bodner.jpg/80px-X5429_-_svenskluta_-_Alfred_Brock_-_1930_-_foto_Mikael_Bodner.jpg"
+            },
+            {
+                "image_id": 30245738,
+                "title": "Violin-Viola",
+                "caption": "Violin-Viola",
+                "url": "https://commons.wikimedia.org/wiki/File:Violin-Viola.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Violin-Viola.jpg/412px-Violin-Viola.jpg"
+            },
+            {
+                "image_id": 30022062,
+                "title": "Lyres-creta",
+                "caption": "Lyres-creta",
+                "url": "https://commons.wikimedia.org/wiki/File:Lyres-creta.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lyres-creta.jpg"
+            },
+            {
+                "image_id": 30181592,
+                "title": "Theorbo-ref-white",
+                "caption": "Theorbo-ref-white",
+                "url": "https://commons.wikimedia.org/wiki/File:Theorbo-ref-white.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Theorbo-ref-white.jpg"
+            },
+            {
+                "image_id": 30327103,
+                "title": "Theorbo-ref-white",
+                "caption": "Theorbo-ref-white",
+                "url": "https://commons.wikimedia.org/wiki/File:Theorbo-ref-white.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Theorbo-ref-white.jpg/600px-Theorbo-ref-white.jpg"
+            },
+            {
+                "image_id": 30046285,
+                "title": "Apollo AS11-40-5866",
+                "caption": "Apollo AS11-40-5866",
+                "url": "https://commons.wikimedia.org/wiki/File:Apollo_AS11-40-5866.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Apollo_AS11-40-5866.jpg"
+            },
+            {
+                "image_id": 30342288,
+                "title": "Box-cutter",
+                "caption": "Box-cutter A general plastic box cutter, which a breakable blade.",
+                "url": "https://commons.wikimedia.org/wiki/File:Box-cutter.jpg",
+                "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Box-cutter.jpg"
+            }
+        ],
+        "txt_negFacts": [
+            {
+                "title": "Irish bouzouki",
+                "fact": "Luthier Stefan Sobell, who coined the term \"cittern\" for his modern, mandolin-based instruments, originally used the term for short scale instruments irrespective of the number of their strings, but he now applies \"cittern\" to all five course instruments irrespective of scale length, and \"octave mandolin\" to all four course instruments, leaving out bouzouki entirely.",
+                "url": "https://en.wikipedia.org/wiki/Irish_bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_9"
+            },
+            {
+                "title": "Andy Irvine (musician)",
+                "fact": "The cassette accompanying this tutor provided both songs, with Irvine accompanying himself on bouzouki. In the same tutor, Irvine's Irish bouzouki tuning (GDAD', one octave lower than the open-tuned mandolin) was also contrasted with the traditional Greek bouzouki tuning (CFAD').In a 1985 interview with the American Frets magazine, Irvine had explained the origins of his bouzouki tuning:",
+                "url": "https://en.wikipedia.org/wiki/Andy_Irvine_(musician)",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_5"
+            },
+            {
+                "title": "Bouzouki",
+                "fact": "This type of bouzouki has 8 metal strings, which are arranged in 4 pairs, known as courses, typically tuned C3C4\u2013F3F4\u2013A3A3\u2013D4D4 (i.e., one whole step below the four high strings of a guitar). In the two higher-pitched (treble) courses, the two strings of the pair are tuned to the same note.",
+                "url": "https://en.wikipedia.org/wiki/Bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_3"
+            },
+            {
+                "title": "Irish bouzouki",
+                "fact": "The Irish bouzouki (Irish: b\u00fas\u00faca\u00ed) is an adaptation of the Greek bouzouki (Greek: \u03bc\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9). The newer Greek tetrachordo (4 courses of strings) bouzouki was introduced into Irish traditional music in the mid-1960s by Johnny Moynihan of the folk group Sweeney's Men.",
+                "url": "https://en.wikipedia.org/wiki/Irish_bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_11"
+            },
+            {
+                "title": "Irish bouzouki",
+                "fact": "Being left-handed, Lunny reversed the strings and crucially, replaced the octave strings on the two lowest courses with unison strings, thus fundamentally changing the character of the instrument. A year or so later, Lunny accompanied Irvine to Peter Abnett's workshop and commissioned a partially staved-back instrument with the same specifications, thus the Irish bouzouki was born.",
+                "url": "https://en.wikipedia.org/wiki/Irish_bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_6"
+            },
+            {
+                "title": "Andy Irvine (musician)",
+                "fact": "Irvine also toured extensively in Europe with Mick Hanly, including at 'The 4th Irish Folk Festival' in Germany on 30 April 1977. They started their set with Irvine performing a full version of \"Johnny Cope\": first the song, followed by the 6-part hornpipe of the same name, which Irvine played complete on bouzouki.",
+                "url": "https://en.wikipedia.org/wiki/Andy_Irvine_(musician)",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_10"
+            },
+            {
+                "title": "Irish traditional music",
+                "fact": "The Greek bouzouki was introduced to Irish traditional music in the late 1960s by Johnny Moynihan and then popularised by D\u00f3nal Lunny, Andy Irvine, and Alec Finn. Today's Irish bouzouki (usually) has four courses of two strings (usually) tuned G2D3A3D4.",
+                "url": "https://en.wikipedia.org/wiki/Irish_traditional_music",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_15"
+            },
+            {
+                "title": "Andy Irvine (musician)",
+                "fact": "In the same tutor, Irvine's Irish bouzouki tuning (GDAD', one octave lower than the open-tuned mandolin) was also contrasted with the traditional Greek bouzouki tuning (CFAD').In a 1985 interview with the American Frets magazine, Irvine had explained the origins of his bouzouki tuning:",
+                "url": "https://en.wikipedia.org/wiki/Andy_Irvine_(musician)",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_8"
+            },
+            {
+                "title": "Irish bouzouki",
+                "fact": "A year or so later, Lunny accompanied Irvine to Peter Abnett's workshop and commissioned a partially staved-back instrument with the same specifications, thus the Irish bouzouki was born. This modified bouzouki became fully integrated into Irish folk music when Irvine and Lunny popularized it with the advent of Planxty in 1972.",
+                "url": "https://en.wikipedia.org/wiki/Irish_bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_13"
+            },
+            {
+                "title": "Irish traditional music",
+                "fact": "Today's Irish bouzouki (usually) has four courses of two strings (usually) tuned G2D3A3D4. The bass courses are most often tuned in unisons, one feature that distinguishes the Irish bouzouki from its Greek antecedent, although octaves in the bass are favoured by some players.",
+                "url": "https://en.wikipedia.org/wiki/Irish_traditional_music",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_14"
+            },
+            {
+                "title": "Mandolin",
+                "fact": "Other mandolin varieties differ primarily in the number of strings and include four-string models (tuned in fifths) such as the Brescian and Cremonese, six-string types (tuned in fourths) such as the Milanese, Lombard and the Sicilian and 6 course instruments of 12 strings (two strings per course) such as the Genoese.",
+                "url": "https://en.wikipedia.org/wiki/Mandolin",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_7"
+            },
+            {
+                "title": "Andy Irvine (musician)",
+                "fact": "They started their set with Irvine performing a full version of \"Johnny Cope\": first the song, followed by the 6-part hornpipe of the same name, which Irvine played complete on bouzouki.",
+                "url": "https://en.wikipedia.org/wiki/Andy_Irvine_(musician)",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_4"
+            },
+            {
+                "title": "Andy Irvine (musician)",
+                "fact": "They started their set with Irvine performing a full version of \"Johnny Cope\": first the song, followed by the 6-part hornpipe of the same name, which Irvine played complete on bouzouki. Hanly then sang \"A Kiss in the Morning Early\".",
+                "url": "https://en.wikipedia.org/wiki/Andy_Irvine_(musician)",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_1"
+            },
+            {
+                "title": "Bouzouki",
+                "fact": "It is tuned the same as the trichordo bouzouki but pitched an octave higher (nominally D\u2013A\u2013D), with unison pairs on the four highest strings and an octave pair on the lower D. Musically, the baglamas is most often found supporting the bouzouki in the Piraeus style of rebetiko.",
+                "url": "https://en.wikipedia.org/wiki/Bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_0"
+            },
+            {
+                "title": "Bouzouki",
+                "fact": "The Greek bouzouki is a plucked musical instrument of the lute family, called the thabouras or tambouras family. The tambouras existed in ancient Greece as the pandura, and can be found in various sizes, shapes, depths of body, lengths of neck and number of strings.",
+                "url": "https://en.wikipedia.org/wiki/Bouzouki",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_12"
+            },
+            {
+                "title": "Jouhikko",
+                "fact": "The four-stringed Estonian talharpa and hiiu kannel have a wider hand hole and can play a wider range and shifting drones. The Welsh crwth is the most developed of this family to survive, with six strings, a fingerboard, and a complex playing style.",
+                "url": "https://en.wikipedia.org/wiki/Jouhikko",
+                "snippet_id": "d5bbca840dba11ecb1e81171463288e9_2"
+            }
+        ],
+        "txt_posFacts": []
+    }
+}
