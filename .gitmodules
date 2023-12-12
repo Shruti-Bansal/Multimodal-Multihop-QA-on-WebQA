@@ -1,6 +1,4 @@
-[submodule "fromage"]
-	path = fromage
-	url = https://github.com/kohjingyu/fromage.git
+
 [submodule "UniVL-DR"]
 	path = UniVL-DR
 	url = https://github.com/OpenMatch/UniVL-DR.git
