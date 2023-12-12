@@ -1,0 +1,6 @@
+[submodule "DecompRC"]
+	path = DecompRC
+	url = https://github.com/shmsw25/DecompRC.git
+[submodule "UnsupervisedDecomposition"]
+	path = UnsupervisedDecomposition
+	url = https://github.com/facebookresearch/UnsupervisedDecomposition.git
