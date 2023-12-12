@@ -1,6 +1,6 @@
-[submodule "DecompRC"]
-	path = DecompRC
-	url = https://github.com/shmsw25/DecompRC.git
-[submodule "UnsupervisedDecomposition"]
-	path = UnsupervisedDecomposition
-	url = https://github.com/facebookresearch/UnsupervisedDecomposition.git
+[submodule "fromage"]
+	path = fromage
+	url = https://github.com/kohjingyu/fromage.git
+[submodule "UniVL-DR"]
+	path = UniVL-DR
+	url = https://github.com/OpenMatch/UniVL-DR.git

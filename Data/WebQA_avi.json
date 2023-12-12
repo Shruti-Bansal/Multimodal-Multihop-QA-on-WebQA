@@ -1,0 +1,239 @@
+{"d5bbc6d80dba11ecb1e81171463288e9": {
+    "Q": "\"Are both the National Museum of the American Indian in Washington, D.C. and the Xanadu House in Kissimmee, Florida the same color?\"",
+    "A": [
+        "\"Yes, both the National Museum of the American Indian in Washington, D.C. and the Xanadu House in Kissimmee, Florida are beige.\""
+    ],
+    "topic": "strange architecture",
+    "split": "train",
+    "Qcate": "YesNo",
+    "Guid": "d5bbc6d80dba11ecb1e81171463288e9",
+    "img_posFacts": [
+        {
+            "image_id": 30321533,
+            "title": "National Museum of the American Indian in Washington, D.C",
+            "caption": "National Museum of the American Indian in Washington, D.C",
+            "url": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian_in_Washington%2C_D.C.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/National_Museum_of_the_American_Indian_in_Washington%2C_D.C.jpg/800px-National_Museum_of_the_American_Indian_in_Washington%2C_D.C.jpg"
+        },
+        {
+            "image_id": 30278153,
+            "title": "Xanadu-House-in-Kissimmee-Florida-1985",
+            "caption": "Xanadu-House-in-Kissimmee-Florida-1985 A photo of the Xanadu House that was located in Kissimmee, Florida, showing the exterior of the house.",
+            "url": "https://commons.wikimedia.org/wiki/File:Xanadu-House-in-Kissimmee-Florida-1985.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Xanadu-House-in-Kissimmee-Florida-1985.jpg"
+        }
+    ],
+    "img_negFacts": [
+        {
+            "image_id": 30095223,
+            "title": "National Museum of the American Indian",
+            "caption": "National Museum of the American Indian",
+            "url": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/National_Museum_of_the_American_Indian.jpg/450px-National_Museum_of_the_American_Indian.jpg"
+        },
+        {
+            "image_id": 30388945,
+            "title": "Xanadu - futuristic architecture",
+            "caption": "Xanadu - futuristic architecture Xanadu House Interior",
+            "url": "https://commons.wikimedia.org/wiki/File:Xanadu_-_futuristic_architecture.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Xanadu_-_futuristic_architecture.jpg/800px-Xanadu_-_futuristic_architecture.jpg"
+        },
+        {
+            "image_id": 30364890,
+            "title": "No Caption. (Monitor \"Saugus\" on the James River, VA.) - NARA - 529196.tif",
+            "caption": "No Caption. (Monitor \"Saugus\" on the James River, VA.) - NARA - 529196.tif",
+            "url": "https://commons.wikimedia.org/wiki/File:No_Caption._(Monitor_%22Saugus%22_on_the_James_River%2C_VA.)_-_NARA_-_529196.tif",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/No_Caption._(Monitor_%22Saugus%22_on_the_James_River%2C_VA.)_-_NARA_-_529196.tif/lossy-page1-1200px-No_Caption._(Monitor_%22Saugus%22_on_the_James_River%2C_VA.)_-_NARA_-_529196.tif.jpg"
+        },
+        {
+            "image_id": 30199172,
+            "title": "Replica of a 18th century baking oven, Kleinplasie Open Air Agricultural Museum and Show Grounds, Worcester, South Africa 01",
+            "caption": "Replica of a 18th century baking oven, Kleinplasie Open Air Agricultural Museum and Show Grounds, Worcester, South Africa 01 Replica of a 18th century outdoor baking oven typical of early Cape homesteads. Made of clay and bricks.",
+            "url": "https://commons.wikimedia.org/wiki/File:Replica_of_a_18th_century_baking_oven%2C_Kleinplasie_Open_Air_Agricultural_Museum_and_Show_Grounds%2C_Worcester%2C_South_Africa_01.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Replica_of_a_18th_century_baking_oven%2C_Kleinplasie_Open_Air_Agricultural_Museum_and_Show_Grounds%2C_Worcester%2C_South_Africa_01.jpg/640px-Replica_of_a_18th_century_baking_oven%2C_Kleinplasie_Open_Air_Agricultural_Museum_and_Show_Grounds%2C_Worcester%2C_South_Africa_01.jpg"
+        },
+        {
+            "image_id": 30264287,
+            "title": "ChapelOfSainPaul night Damascus Syria",
+            "caption": "ChapelOfSainPaul night Damascus Syria Chapel of Saint Paul by night, Damascus, Syria.",
+            "url": "https://commons.wikimedia.org/wiki/File:ChapelOfSainPaul_night_Damascus_Syria.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/ChapelOfSainPaul_night_Damascus_Syria.jpg"
+        },
+        {
+            "image_id": 30111789,
+            "title": "Richterin talo, Turku. Kuvaaja HJ. Renvall 1914, arkisto Turun museokeskus.",
+            "caption": "Richterin talo, Turku. Kuvaaja HJ. Renvall 1914, arkisto Turun museokeskus. Turku, Finland.",
+            "url": "https://commons.wikimedia.org/wiki/File:Richterin_talo%2C_Turku._Kuvaaja_HJ._Renvall_1914%2C_arkisto_Turun_museokeskus..jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Richterin_talo%2C_Turku._Kuvaaja_HJ._Renvall_1914%2C_arkisto_Turun_museokeskus..jpg/800px-Richterin_talo%2C_Turku._Kuvaaja_HJ._Renvall_1914%2C_arkisto_Turun_museokeskus..jpg"
+        },
+        {
+            "image_id": 30272499,
+            "title": "Centennial Hangar, Wright Brothers National Memorial, Kill Devil Hills, North Carolina (14443981511)",
+            "caption": "Centennial Hangar, Wright Brothers National Memorial, Kill Devil Hills, North Carolina (14443981511)",
+            "url": "https://commons.wikimedia.org/wiki/File:Centennial_Hangar%2C_Wright_Brothers_National_Memorial%2C_Kill_Devil_Hills%2C_North_Carolina_(14443981511).jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Centennial_Hangar%2C_Wright_Brothers_National_Memorial%2C_Kill_Devil_Hills%2C_North_Carolina_(14443981511).jpg/1200px-Centennial_Hangar%2C_Wright_Brothers_National_Memorial%2C_Kill_Devil_Hills%2C_North_Carolina_(14443981511).jpg"
+        },
+        {
+            "image_id": 30281363,
+            "title": "\u4eac\u83ef\u57ce\u767e\u8ca8\u516c\u53f8 Core Pacific City Co., Ltd. - panoramio - Tianmu peter (3)",
+            "caption": "\u4eac\u83ef\u57ce\u767e\u8ca8\u516c\u53f8 Core Pacific City Co., Ltd. - panoramio - Tianmu peter (3)",
+            "url": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E8%8F%AF%E5%9F%8E%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8_Core_Pacific_City_Co.%2C_Ltd._-_panoramio_-_Tianmu_peter_(3).jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%E4%BA%AC%E8%8F%AF%E5%9F%8E%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8_Core_Pacific_City_Co.%2C_Ltd._-_panoramio_-_Tianmu_peter_(3).jpg/1200px-%E4%BA%AC%E8%8F%AF%E5%9F%8E%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8_Core_Pacific_City_Co.%2C_Ltd._-_panoramio_-_Tianmu_peter_(3).jpg"
+        },
+        {
+            "image_id": 30005083,
+            "title": "Exterior view of the Andrew McNally residence from a path and archway, Altadena, ca.1900 (CHS-260)",
+            "caption": "Exterior view of the Andrew McNally residence from a path and archway, Altadena, ca.1900 (CHS-260) Exterior view of the Andrew McNally residence from a path and archway, Altadena, ca.1900",
+            "url": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_Andrew_McNally_residence_from_a_path_and_archway%2C_Altadena%2C_ca.1900_(CHS-260).jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Exterior_view_of_the_Andrew_McNally_residence_from_a_path_and_archway%2C_Altadena%2C_ca.1900_(CHS-260).jpg/1200px-Exterior_view_of_the_Andrew_McNally_residence_from_a_path_and_archway%2C_Altadena%2C_ca.1900_(CHS-260).jpg"
+        },
+        {
+            "image_id": 30240273,
+            "title": "Recherswil Isler-Schale 02 09",
+            "caption": "Recherswil Isler-Schale 02 09 Isler shell, concrete dome roof of a building of the former company Kilcher in Recherswil, built 1965; Solothurn, Switzerland.",
+            "url": "https://commons.wikimedia.org/wiki/File:Recherswil_Isler-Schale_02_09.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Recherswil_Isler-Schale_02_09.jpg/640px-Recherswil_Isler-Schale_02_09.jpg"
+        },
+        {
+            "image_id": 30202982,
+            "title": "Brentwood, Los Angeles, CA 90049, USA - panoramio (11)",
+            "caption": "Brentwood, Los Angeles, CA 90049, USA - panoramio (11)",
+            "url": "https://commons.wikimedia.org/wiki/File:Brentwood%2C_Los_Angeles%2C_CA_90049%2C_USA_-_panoramio_%2811%29.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brentwood%2C_Los_Angeles%2C_CA_90049%2C_USA_-_panoramio_%2811%29.jpg/1024px-Brentwood%2C_Los_Angeles%2C_CA_90049%2C_USA_-_panoramio_%2811%29.jpg"
+        },
+        {
+            "image_id": 30059273,
+            "title": "Arheo Muz SK (4)",
+            "caption": "Arheo Muz SK (4)  Archeological Museum of Macedonia in Skopje, Macedonia",
+            "url": "https://commons.wikimedia.org/wiki/File:Arheo_Muz_SK_(4).JPG",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arheo_Muz_SK_(4).JPG/1200px-Arheo_Muz_SK_(4).JPG"
+        },
+        {
+            "image_id": 30248590,
+            "title": "LGI Brotherton Wing 002",
+            "caption": "LGI Brotherton Wing 002 Balconies at the Southern end of the Brotherton Wing at the Leeds General Infirmary. Taken on the afternoon of Saturday the 3rd of October 2009.",
+            "url": "https://commons.wikimedia.org/wiki/File:LGI_Brotherton_Wing_002.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LGI_Brotherton_Wing_002.jpg/450px-LGI_Brotherton_Wing_002.jpg"
+        },
+        {
+            "image_id": 30146167,
+            "title": "Homage to Kaiser Leopold I on August 7, 1658, by Ruprecht Hauer, 1658, oil on canvas - Stadtmuseum Fembohaus - Nuremberg, Germany - DSC02050",
+            "caption": "Homage to Kaiser Leopold I on August 7, 1658, by Ruprecht Hauer, 1658, oil on canvas - Stadtmuseum Fembohaus - Nuremberg, Germany - DSC02050 Exhibit in the Stadtmuseum Fembohaus - Nuremberg, Germany.",
+            "url": "https://commons.wikimedia.org/wiki/File:Homage_to_Kaiser_Leopold_I_on_August_7%2C_1658%2C_by_Ruprecht_Hauer%2C_1658%2C_oil_on_canvas_-_Stadtmuseum_Fembohaus_-_Nuremberg%2C_Germany_-_DSC02050.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Homage_to_Kaiser_Leopold_I_on_August_7%2C_1658%2C_by_Ruprecht_Hauer%2C_1658%2C_oil_on_canvas_-_Stadtmuseum_Fembohaus_-_Nuremberg%2C_Germany_-_DSC02050.jpg"
+        },
+        {
+            "image_id": 30038588,
+            "title": "Jonesboro, AR 013",
+            "caption": "Jonesboro, AR 013 Anchor from a former battleship on courthouse grounds",
+            "url": "https://commons.wikimedia.org/wiki/File:Jonesboro%2C_AR_013.jpg",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jonesboro%2C_AR_013.jpg/1200px-Jonesboro%2C_AR_013.jpg"
+        },
+        {
+            "image_id": 30220639,
+            "title": "Academy of sciences canberra ACT",
+            "caption": "Academy of sciences canberra ACT Shine Dome of the Australian Academy of Science at Canberra ACT. I took the photo",
+            "url": "https://commons.wikimedia.org/wiki/File:Academy_of_sciences_canberra_ACT.jpg",
+            "imgUrl": "http://upload.wikimedia.org/wikipedia/commons/3/3a/Academy_of_sciences_canberra_ACT.jpg"
+        }
+    ],
+    "txt_negFacts": [
+        {
+            "title": "Xanadu Houses",
+            "fact": "Construction of the Xanadu house in Kissimmee, Florida, began with the pouring of a concrete slab base and the erection of a tension ring 40 feet (12 m) in diameter to anchor the domed roof of what would become the \"Great Room\" of the house.",
+            "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_6"
+        },
+        {
+            "title": "Xanadu Houses",
+            "fact": "The Xanadu house in Kissimmee, Florida used an automated system controlled by Commodore microcomputers. The house had fifteen rooms; of these the kitchen, party room, health spa, and bedrooms all used computers and other electronic equipment heavily in their design.",
+            "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_7"
+        },
+        {
+            "title": "Booker T. Washington",
+            "fact": "In 1946, he was honored on the first coin to feature an African American, the Booker T. Washington Memorial Half Dollar, which was minted by the United States until 1951.On April 5, 1956, the hundredth anniversary of Washington's birth, the house where he was born in Franklin County, Virginia, was designated as the Booker T. Washington National Monument.",
+            "url": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_13"
+        },
+        {
+            "title": "National Building Museum",
+            "fact": "The National Building Museum is located at 401 F Street NW in Washington, D.C.   It is a museum of \"architecture, design, engineering, construction, and urban planning\".",
+            "url": "https://en.wikipedia.org/wiki/National_Building_Museum",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_14"
+        },
+        {
+            "title": "National Air and Space Museum",
+            "fact": "The National Air and Space Museum of the Smithsonian Institution, also called the Air and Space Museum, is a museum in Washington, D.C., US. It was established in 1946 as the National Air Museum and opened its main building on the National Mall near L'Enfant Plaza in 1976.",
+            "url": "https://en.wikipedia.org/wiki/National_Air_and_Space_Museum",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_11"
+        },
+        {
+            "title": "Native Americans in the United States",
+            "fact": "Most American Indians are comfortable with Indian, American Indian, and Native American. That term is reflected in the name chosen for the National Museum of the American Indian, which opened in 2004 on the Mall in Washington, DC.",
+            "url": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_12"
+        },
+        {
+            "title": "National Air and Space Museum",
+            "fact": "The National Air and Space Museum of the Smithsonian Institution, also called the Air and Space Museum, is a museum in Washington, D.C., US.",
+            "url": "https://en.wikipedia.org/wiki/National_Air_and_Space_Museum",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_1"
+        },
+        {
+            "title": "Xanadu Houses",
+            "fact": "The interior of the house was cave-like, featuring cramped rooms and low ceilings, although it is not clear whether these accounts describe the same Xanadu House with a thirty-foot dome. The interiors used a cream color for the walls, and a pale green for the floor.",
+            "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_9"
+        },
+        {
+            "title": "The Washington Post",
+            "fact": "The Washington Post (also known as the Post and, informally, WaPo) is an American daily newspaper published in Washington, D.C. It is the most-widely circulated newspaper within the Washington metropolitan area, and has a large national audience.",
+            "url": "https://en.wikipedia.org/wiki/The_Washington_Post",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_2"
+        },
+        {
+            "title": "Native Americans in the United States",
+            "fact": "That term is reflected in the name chosen for the National Museum of the American Indian, which opened in 2004 on the Mall in Washington, DC.",
+            "url": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_15"
+        },
+        {
+            "title": "Washington, D.C.",
+            "fact": "The Smithsonian American Art Museum and the National Portrait Gallery are housed in the Old Patent Office Building, near Washington's Chinatown. The Renwick Gallery is officially part of the Smithsonian American Art Museum but is in a separate building near the White House.",
+            "url": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_5"
+        },
+        {
+            "title": "Xanadu Houses",
+            "fact": "It had at least two entrances, and large porthole-type windows. The interior of the house was cave-like, featuring cramped rooms and low ceilings, although it is not clear whether these accounts describe the same Xanadu House with a thirty-foot dome.",
+            "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_10"
+        },
+        {
+            "title": "History of American Indian schools",
+            "fact": "Investigations of the later twentieth century have revealed many documented cases of sexual, manual, physical and mental abuse occurring mostly in church-run schools. The National Museum of the American Indian also notes that some students had good memories of their school days, having learned skills and made lifelong friends.",
+            "url": "https://en.wikipedia.org/wiki/History_of_American_Indian_schools",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_8"
+        },
+        {
+            "title": "National Building Museum",
+            "fact": "The building itself was formally renamed the National Building Museum in 1997.Every year, the annual Christmas in Washington program was filmed at the museum, with the President and First Lady until the show's cancellation in 2015.",
+            "url": "https://en.wikipedia.org/wiki/National_Building_Museum",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_3"
+        },
+        {
+            "title": "Washington, D.C.",
+            "fact": "The Renwick Gallery is officially part of the Smithsonian American Art Museum but is in a separate building near the White House. Other Smithsonian museums and galleries include: the Anacostia Community Museum in Southeast Washington; the National Postal Museum near Union Station; and the National Zoo in Woodley Park.",
+            "url": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_0"
+        },
+        {
+            "title": "Xanadu Houses",
+            "fact": "The interior of the house was cave-like, featuring cramped rooms and low ceilings, although it is not clear whether these accounts describe the same Xanadu House with a thirty-foot dome.",
+            "url": "https://en.wikipedia.org/wiki/Xanadu_Houses",
+            "snippet_id": "d5bbc6d80dba11ecb1e81171463288e9_4"
+        }
+    ],
+    "txt_posFacts": []
+}}
