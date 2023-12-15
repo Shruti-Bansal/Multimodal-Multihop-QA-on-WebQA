@@ -1,0 +1,3 @@
+[submodule "universal-features"]
+	path = UniVL-DR
+	url = https://github.com/manhbao-nguyen/UniVL-DR.git
